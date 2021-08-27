@@ -22,10 +22,6 @@ Extractions from each of the three coral species for the 5E project. One vial fr
 | 59		 	| January	  	| *Pocillopora* | POC-255     	| 202000103  	| 2				|
 
 
-|Tube_no|Timepoint|Species|Colony ID|Tube ID|Site|
-|1|January|*Porites*|POR-266|202000103|2|
-|31|January|*Acropora*|ACR-267|202000103|2|
-|59|January|*Pocillopora*|POC-255|202000103|2|
 
 **Extraction notes**
  - Half to a third of coral fragment clipped and 500 μl of DNA/RNA shield from sample tube placed in tube with 2 mL 0.5 mm glass beads and 500ul of RNA/DNA shield
