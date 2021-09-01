@@ -63,7 +63,7 @@ Extractions from each of the three coral species for the 5E project. One vial fr
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
  - I did not tape station the first sample because there was no detectable RNA 
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/raw/master/images/2021-08-24-14.42.08_TP.pdf)
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/tape_station/2021-08-24%20-%2014.42.08.pdf)
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
@@ -74,7 +74,7 @@ Extractions from each of the three coral species for the 5E project. One vial fr
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~3ul of RNA
  - Loaded my gel with the DNA first, then skipped a well and then the RNA
  - Ran the gel for 60 minutes at 60 volts
- ![20210824_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/raw/master/images/20210824_gel.jpg)
+ ![20210824_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/raw/master/images/gels/20210824_gel.jpg)
  
  **Addtional Notes**
   - Need to try and troubleshoot why the *Porites* extraction didn't work. There might be some inhibitor that is messing with the extraction of the RNA
