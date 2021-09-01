@@ -74,7 +74,7 @@ Extractions from each of the three coral species for the 5E project. One vial fr
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~3ul of RNA
  - Loaded my gel with the DNA first, then skipped a well and then the RNA
  - Ran the gel for 60 minutes at 60 volts
- ![20210824_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/20210824_gel.jpg)
+ ![20210824_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/raw/master/images/20210824_gel.jpg)
  
  **Addtional Notes**
   - Need to try and troubleshoot why the *Porites* extraction didn't work. There might be some inhibitor that is messing with the extraction of the RNA
