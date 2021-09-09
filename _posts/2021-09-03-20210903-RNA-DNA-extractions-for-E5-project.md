@@ -56,7 +56,7 @@ Extractions from each of the three coral species from each of the four timepoint
 |-------------	|------------	|-------------	|-------------	|-------------	|
 | Standard 1  	| 247.87	 	| 		      	| 		      	|	         	|
 | Standard 2 	| 21102.64	 	| 		    	| 		    	| 	        	|
-| 216		 	|		     	| 6.82	     	| 6.46	     	| 6.64        	|
+| 217		 	|		     	| 6.82	     	| 6.46	     	| 6.64        	|
 | 235		 	| 			   	| nd        	| nd         	| nd         	|
 | 245		  	|		     	| 3.72        	| 4.14        	| 3.93       	|
 | 393		 	| 			   	| 29.6        	| 29.2         	| 29.4        	|
@@ -77,7 +77,7 @@ Extractions from each of the three coral species from each of the four timepoint
 |-------------	|------------	|-------------	|-------------	|-------------	|
 | Standard 1  	| 367.79	 	| 		      	| 		      	|	         	|
 | Standard 2 	| 6965.03	 	| 		    	| 		    	| 	        	|
-| 216		 	|		     	| nd	     	| nd	     	| nd        	|
+| 217		 	|		     	| nd	     	| nd	     	| nd        	|
 | 235		 	| 			   	| 17.0        	| 15.8         	| 16.4         	|
 | 245		  	|		     	| 12.4        	| 12.8        	| 12.6        	|
 | 393		 	| 			   	| 27.2        	| 27.4         	| 27.3       	|
@@ -108,5 +108,6 @@ Extractions from each of the three coral species from each of the four timepoint
  ![20210903_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/7652b7b001cc5bacf3550fa5a8a77f74d8eb0b3f/images/gels/20210903_gel.jpg)
  
  **Addtional Notes**
-  - 711 had some pigment after the elution steps 
+  - 711 had some pigment after the RNA elution steps 
+  - I need to requbit the DNA from 235, 409, and 711. The gel looks okay, I think I miss pipetted. 
 
