@@ -101,5 +101,5 @@ Extractions from each of the three coral species from each of the four timepoint
  ![20210907_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/f26b784e026efa69325ab997d7bdf2aed055e12a/images/gels/20210907_gel.jpg)
  
  **Addtional Notes**
-  - 781 had some pigment after the elution steps 
+  - RNA gel doesn't look great. Tape station looks a little better 
 
