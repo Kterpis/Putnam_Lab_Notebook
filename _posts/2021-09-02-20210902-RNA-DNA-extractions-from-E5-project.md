@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20210902 RNA DNA extractions from E5 project
-date: '2021-09-07'
+date: '2021-09-02'
 categories: Processing
 tags: DNA RNA
 ---
