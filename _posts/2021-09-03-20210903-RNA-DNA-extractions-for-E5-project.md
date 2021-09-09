@@ -99,7 +99,7 @@ Extractions from each of the three coral species from each of the four timepoint
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~8ul of RNA
  - Loaded my gel with the DNA first, then skipped a well and then the RNA
  - Ran the gel for 60 minutes at 60 volts
- ![20210903_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/7652b7b001cc5bacf3550fa5a8a77f74d8eb0b3f/images/gels/20210903_gel.jpg)
+ ![20210903_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210903_gel.jpg?raw=true)
  
  **Addtional Notes**
   - 711 had some pigment after the RNA elution steps 
