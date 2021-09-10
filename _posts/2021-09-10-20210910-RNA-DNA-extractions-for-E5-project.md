@@ -11,7 +11,7 @@ Extractions from two of the three coral species from each of the four timepoints
 
 ---
 
-#### Extraction Date: September 7, 2021 
+#### Extraction Date: September 10, 2021 
 **Samples**
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
@@ -85,7 +85,7 @@ Extractions from two of the three coral species from each of the four timepoints
 
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
- - I did not tape station 19 because there was no detectable RNA 
+ - I did not tape station 61 because there was no detectable RNA 
  - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/c4a9c3b9beea6c7f3f50fdad80f5022ac8d9783b/images/tape_station/2021-09-10%20-%2014.00.18.pdf)
 
 **Gel**
