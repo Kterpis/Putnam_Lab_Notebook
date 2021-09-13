@@ -103,5 +103,5 @@ Extractions from each of the three coral species from each of the four timepoint
  
  **Addtional Notes**
   - 711 had some pigment after the RNA elution steps 
-  - I need to requbit the DNA from 235, 409, 711 and 711. The gel looks okay, I think I miss pipetted. 
+  - I need to requbit the DNA from 235, 409, 577 and 711. The gel looks okay, I think I miss pipetted. 
 
