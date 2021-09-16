@@ -16,18 +16,18 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 29		 	| January	 	| *Porites*		| ACR-139      	| 20200103   	| 2				|
-| 33			| January	 	| *Acropora*	| POC-41	    | 20200103		| 2				|
-| 49		 	| January	  	| *Acropora*	| ACR-187     	| 20200103  	| 2				|
-| 357		 	| March		 	| *Porites*		| ACR-237     	| 20200304   	| 3				|
-| 359			| March 		| *Acropora*	| ACR-258	    | 20200304		| 3				|
-| 363		 	| March	  		| *Pocillopora*	| POC-219    	| 20200304  	| 3				|
-| 589		 	| Sept		 	| *Porites*  	| ACR-218      	| 20200908   	| 3				|
-| 597			| Sept	 		| *Pocillopora*	| POC-200	    | 20200908		| 3				|
-| 621		 	| Sept		  	| *Acropora*	| POC-222     	| 20200908  	| 3				|
-| 735		 	| November	 	| *Porites* 	| POC-371    	| 20201101   	| 1				|
-| 743			| November	 	| *Acropora*	| POC-346	    | 20201101		| 1				|
-| 747		 	| November	  	| *Acropora*	| POC-378    	| 20201101  	| 1				|
+| 29		 	| January	 	| *Porites*		| POR-216      	| 20200103   	| 2				|
+| 33			| January	 	| *Acropora*	| ACR-265	    | 20200103		| 2				|
+| 49		 	| January	  	| *Acropora*	| ACR-237     	| 20200103  	| 2				|
+| 357		 	| March		 	| *Porites*		| POR-341     	| 20200304   	| 3				|
+| 359			| March 		| *Acropora*	| ACR-351	    | 20200304		| 3				|
+| 363		 	| March	  		| *Pocillopora*	| POC-366    	| 20200304  	| 3				|
+| 589		 	| Sept		 	| *Porites*  	| POR-353      	| 20200908   	| 3				|
+| 597			| Sept	 		| *Pocillopora*	| POC-375	    | 20200908		| 3				|
+| 621		 	| Sept		  	| *Acropora*	| ACR-364     	| 20200908  	| 3				|
+| 735		 	| November	 	| *Porites* 	| POR-79    	| 20201101   	| 1				|
+| 743			| November	 	| *Acropora*	| ACR-176	    | 20201101		| 1				|
+| 747		 	| November	  	| *Acropora*	| ACR-140    	| 20201101  	| 1				|
 
 **Extraction notes**
  - ACR and POC samples: pulled out 300ul of shield
@@ -86,7 +86,7 @@ Extractions from the three coral species from each of the four timepoints
 
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) 
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/c4a9c3b9beea6c7f3f50fdad80f5022ac8d9783b/images/tape_station/2021-09-10-%2014.00.18.pdf)
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/8fe28b166aa669b7b1d7e3a931c5e9b87e10e37f/images/tape_station/2021-09-16%20-%2014.13.25.pdf)
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
