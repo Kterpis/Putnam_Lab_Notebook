@@ -86,7 +86,7 @@ Extractions from the three coral species from each of the four timepoints
 
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) 
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/8fe28b166aa669b7b1d7e3a931c5e9b87e10e37f/images/tape_station/2021-09-16%20-%2014.13.25.pdf)
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/59c698fff98853439dfded5f4b137de895fbfce6/images/tape_station/2021-09-16%20-%2014.13.25.pdf)
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
@@ -97,7 +97,7 @@ Extractions from the three coral species from each of the four timepoints
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~8ul of RNA
  - Loaded my gel with the DNA first, then skipped a well and then the RNA
  - Ran the gel for 60 minutes at 60 volts
- ![20210916_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210910_gel.jpg?raw=true)
+ ![20210916_gel.pdf](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/090585d17704b4002b0a5e52dba137ceeaddc05c/images/gels/20210916_gel.pdf)
  
  **Addtional Notes**
   - NA
