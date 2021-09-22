@@ -87,7 +87,7 @@ Extractions from the three coral species from each of the four timepoints
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) 
  - Did not tape station #111
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/59c698fff98853439dfded5f4b137de895fbfce6/images/tape_station/2021-09-16%20-%2014.13.25.pdf)
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/48251aeb44e30149100db2f5398357c7824b75ca/images/tape_station/2021-09-20%20-%2015.35.44.pdf)
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
