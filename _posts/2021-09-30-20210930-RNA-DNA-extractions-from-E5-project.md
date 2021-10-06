@@ -17,18 +17,18 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 135		 	| January	 	| *Porites*		| POC-378      	| 20200106   	| 3				|
-| 141			| January	 	| *Acropora*	| ACR-368	    | 20200106		| 3				|
-| 149		 	| January	  	| *Pocillopora*	| POR-365    	| 20200106  	| 3				|
-| 289		 	| March		 	| *Porites*		| POC-205     	| 20200303   	| 2				|
-| 295			| March 		| *Pocillopora*	| ACR-229	    | 20200303		| 2				|
-| 297		 	| March	  		| *Acropora*	| POR-245    	| 20200303  	| 2				|
-| 559		 	| Sept		 	| *Porites*		| POC-248      	| 20200910   	| 2				|
-| 623			| Sept	 		| *Pocillopora*	| POC-386	    | 20200908		| 3				|
-| 625		 	| Sept		  	| *Pocillopora*	| POR-287     	| 20200908  	| 3				|
-| 829		 	| November	 	| *Porites*		| POC-394   	| 20201031   	| 3				|
-| 833			| November	 	| *Acropora*	| ACR-390	    | 20201031		| 3				|
-| 837		 	| November	  	| *Porites*		| POR-362    	| 20201031  	| 3				|
+| 135		 	| January	 	| *Porites*		| POR-242      	| 20200103   	| 2				|
+| 141			| January	 	| *Acropora*	| ACR-234	    | 20200103		| 2				|
+| 149		 	| January	  	| *Pocillopora*	| POC-222    	| 20200103  	| 2				|
+| 289		 	| March		 	| *Porites*		| POR-260     	| 20200303   	| 2				|
+| 295			| March 		| *Pocillopora*	| POC-201	    | 20200303		| 2				|
+| 297		 	| March	  		| *Acropora*	| ACR-347    	| 20200304  	| 3				|
+| 559		 	| Sept		 	| *Porites*		| POR-72      	| 20200911   	| 1				|
+| 623			| Sept	 		| *Pocillopora*	| POC-48	    | 20200911		| 1				|
+| 625		 	| Sept		  	| *Pocillopora*	| POC-43     	| 20200911  	| 1				|
+| 829		 	| November	 	| *Porites*		| POR-353   	| 20201031   	| 3				|
+| 833			| November	 	| *Pocillopora*	| POC-358	    | 20201031		| 3				|
+| 837		 	| November	  	| *Acropora*	| ACR-393    	| 20201031  	| 3				|
 
 **Extraction notes**
  - ACR and POC samples: pulled out 300ul of shield
@@ -69,20 +69,20 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| RFU		   	| RNA 1 (ng/uL) | RNA 2 (ng/uL) | Average     	|
 |-------------	|------------	|-------------	|-------------	|-------------	|
-| Standard 1  	| 352.26	 	| 		      	| 		      	|	         	|
-| Standard 2 	| 6899.11	 	| 		    	| 		    	| 	        	|
-| 11		 	|		     	| 26.4	     	| 25.2	     	| 25.8        	|
-| 35		 	| 			   	| 10.1      	| 10.6        	| 10.35         |
-| 65		  	|		     	| nd 	      	| nd        	| nd        	|
-| 327		 	| 			   	| 113        	| 113        	| 113        	|
-| 329		  	|		     	| 34.6      	| 34.4         	| 34.5        	|
-| 337		 	| 			   	| 2.72       	| 2.64      	| 2.68       	|
-| 637		  	|		     	| 19.6       	| 19.7        	| 19.65        	|
-| 643		 	| 			   	| 40.8        	| 41.0         	| 40.9       	|
-| 655		  	|		     	| nd  	     	| nd         	| nd        	|
-| 849		 	| 			   	| 21.6        	| 21.6         	| 21.6        	|
-| 851		  	|		     	| 40.8        	| 40.4        	| 40.6        	|
-| 855		 	| 			   	| 5.68        	| 5.76         	| 5.72        	|
+| Standard 1  	| 368.89	 	| 		      	| 		      	|	         	|
+| Standard 2 	| 6287.72	 	| 		    	| 		    	| 	        	|
+| 11		 	|		     	| 17.0	     	| 16.8	     	| 16.9        	|
+| 35		 	| 			   	| 18.6      	| 18.4        	| 18.5          |
+| 65		  	|		     	| 35.4	      	| 37.0      	| 36.2       	|
+| 327		 	| 			   	| 28.2       	| 29.0       	| 28.6        	|
+| 329		  	|		     	| 57.2      	| 59.4         	| 58.3        	|
+| 337		 	| 			   	| 14.6       	| 14.6      	| 14.6       	|
+| 637		  	|		     	| 29.0       	| 29.4        	| 29.2        	|
+| 643		 	| 			   	| 53.6        	| 53.0         	| 53.3       	|
+| 655		  	|		     	| 42.4	     	| 40.8        	| 41.6        	|
+| 849		 	| 			   	| 13.8        	| 14.2         	| 14.0        	|
+| 851		  	|		     	| 59.4        	| 58.8        	| 59.1        	|
+| 855		 	| 			   	| 17.8        	| 17.6         	| 17.7        	|
 
 
 **Tape Station**
