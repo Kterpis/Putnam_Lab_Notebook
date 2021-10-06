@@ -55,13 +55,13 @@ Extractions from the three coral species from each of the four timepoints
 | 65		  	|		     	| 44.0 	      	| 42.6        	| 43.3        	|
 | 327		 	| 			   	| 2.08        	| 2.06        	| 2.07       	|
 | 329		  	|		     	| 84.0      	| 83.8         	| 83.9        	|
-| 337		 	| 			   	| 9.46       	| 9.39      	| 2.68       	|
-| 637		  	|		     	| nd	       	| nd        	| 19.65        	|
-| 643		 	| 			   	| 64.2       	| 65.4         	| 40.9       	|
-| 655		  	|		     	| 60.8  	    | 61.2         	| nd        	|
-| 849		 	| 			   	| 13.7        	| 13.5         	| 21.6        	|
-| 851		  	|		     	| 4.52        	| 4.54        	| 40.6        	|
-| 855		 	| 			   	| 9.98        	| 9.78         	| 5.72        	|
+| 337		 	| 			   	| 9.46       	| 9.39      	| 9.43       	|
+| 637		  	|		     	| nd	       	| nd        	| nd        	|
+| 643		 	| 			   	| 64.2       	| 65.4         	| 64.8       	|
+| 655		  	|		     	| 60.8  	    | 61.2         	| 61.0        	|
+| 849		 	| 			   	| 13.7        	| 13.5         	| 13.6        	|
+| 851		  	|		     	| 4.52        	| 4.54        	| 4.53        	|
+| 855		 	| 			   	| 9.98        	| 9.78         	| 9.88        	|
 
 
 **RNA**
@@ -87,7 +87,7 @@ Extractions from the three coral species from each of the four timepoints
 
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) 
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/36ffd6d6d8795d69b528caa6644a7871bff3272b/images/tape_station/2021-09-24%20-%2013.45.33.pdf)
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/95725f26e714dd7785ad14f1c1f9eb20ecf3d48f/images/tape_station/2021-09-30%20-%2013.48.52.pdf)
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
@@ -98,7 +98,7 @@ Extractions from the three coral species from each of the four timepoints
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~8ul of RNA
  - Loaded my gel with the DNA first, then skipped a well and then the RNA
  - Ran the gel for 60 minutes at 60 volts
- ![20210930_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210924_gel.jpg?raw=true)
+ ![20210930_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210930_gel.jpg?raw=true)
  
  **Addtional Notes**
   - 327 some pigment carryover
