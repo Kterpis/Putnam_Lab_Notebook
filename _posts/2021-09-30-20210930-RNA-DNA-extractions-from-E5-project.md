@@ -17,16 +17,16 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 135		 	| January	 	| *Pocillopora*	| POC-378      	| 20200106   	| 3				|
+| 135		 	| January	 	| *Porites*		| POC-378      	| 20200106   	| 3				|
 | 141			| January	 	| *Acropora*	| ACR-368	    | 20200106		| 3				|
-| 149		 	| January	  	| *Porites*		| POR-365    	| 20200106  	| 3				|
-| 289		 	| March		 	| *Pocillopora*	| POC-205     	| 20200303   	| 2				|
-| 295			| March 		| *Acropora*	| ACR-229	    | 20200303		| 2				|
-| 297		 	| March	  		| *Porites*		| POR-245    	| 20200303  	| 2				|
-| 559		 	| Sept		 	| *Pocillopora*	| POC-248      	| 20200910   	| 2				|
+| 149		 	| January	  	| *Pocillopora*	| POR-365    	| 20200106  	| 3				|
+| 289		 	| March		 	| *Porites*		| POC-205     	| 20200303   	| 2				|
+| 295			| March 		| *Pocillopora*	| ACR-229	    | 20200303		| 2				|
+| 297		 	| March	  		| *Acropora*	| POR-245    	| 20200303  	| 2				|
+| 559		 	| Sept		 	| *Porites*		| POC-248      	| 20200910   	| 2				|
 | 623			| Sept	 		| *Pocillopora*	| POC-386	    | 20200908		| 3				|
-| 625		 	| Sept		  	| *Porites*		| POR-287     	| 20200908  	| 3				|
-| 829		 	| November	 	| *Pocillopora*	| POC-394   	| 20201031   	| 3				|
+| 625		 	| Sept		  	| *Pocillopora*	| POR-287     	| 20200908  	| 3				|
+| 829		 	| November	 	| *Porites*		| POC-394   	| 20201031   	| 3				|
 | 833			| November	 	| *Acropora*	| ACR-390	    | 20201031		| 3				|
 | 837		 	| November	  	| *Porites*		| POR-362    	| 20201031  	| 3				|
 
@@ -48,20 +48,20 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| RFU		   	| DNA 1 (ng/uL) | DNA 2 (ng/uL) | Average     	|
 |-------------	|------------	|-------------	|-------------	|-------------	|
-| Standard 1  	| 195.01	 	| 		      	| 		      	|	         	|
-| Standard 2 	| 22598.84	 	| 		    	| 		    	| 	        	|
-| 135		 	|		     	| 26.4	     	| 25.2	     	| 25.8        	|
-| 141		 	| 			   	| 10.1      	| 10.6        	| 10.35         |
-| 149		  	|		     	| nd 	      	| nd        	| nd        	|
-| 289		 	| 			   	| 113        	| 113        	| 113        	|
-| 295		  	|		     	| 34.6      	| 34.4         	| 34.5        	|
-| 297		 	| 			   	| 2.72       	| 2.64      	| 2.68       	|
-| 559		  	|		     	| 19.6       	| 19.7        	| 19.65        	|
-| 623		 	| 			   	| 40.8        	| 41.0         	| 40.9       	|
-| 625		  	|		     	| nd  	     	| nd         	| nd        	|
-| 829		 	| 			   	| 21.6        	| 21.6         	| 21.6        	|
-| 833		  	|		     	| 40.8        	| 40.4        	| 40.6        	|
-| 837		 	| 			   	| 5.68        	| 5.76         	| 5.72        	|
+| Standard 1  	| 213.55	 	| 		      	| 		      	|	         	|
+| Standard 2 	| 21639.23	 	| 		    	| 		    	| 	        	|
+| 11		 	|		     	| 5.48	     	| 5.50	     	| 5.49        	|
+| 35		 	| 			   	| 51.2      	| 51.0        	| 51.1			|
+| 65		  	|		     	| 44.0 	      	| 42.6        	| 43.3        	|
+| 327		 	| 			   	| 2.08        	| 2.06        	| 2.07       	|
+| 329		  	|		     	| 84.0      	| 83.8         	| 83.9        	|
+| 337		 	| 			   	| 9.46       	| 9.39      	| 2.68       	|
+| 637		  	|		     	| nd	       	| nd        	| 19.65        	|
+| 643		 	| 			   	| 64.2       	| 65.4         	| 40.9       	|
+| 655		  	|		     	| 60.8  	    | 61.2         	| nd        	|
+| 849		 	| 			   	| 13.7        	| 13.5         	| 21.6        	|
+| 851		  	|		     	| 4.52        	| 4.54        	| 40.6        	|
+| 855		 	| 			   	| 9.98        	| 9.78         	| 5.72        	|
 
 
 **RNA**
@@ -71,23 +71,22 @@ Extractions from the three coral species from each of the four timepoints
 |-------------	|------------	|-------------	|-------------	|-------------	|
 | Standard 1  	| 352.26	 	| 		      	| 		      	|	         	|
 | Standard 2 	| 6899.11	 	| 		    	| 		    	| 	        	|
-| 135		 	|		     	| 25.0	     	| 25.4	     	| 25.2        	|
-| 141		 	| 			   	| nd	      	| nd        	| nd         	|
-| 149		  	|		     	| 11.6 	      	| nd?        	| 11.6        	|
-| 289		 	| 			   	| 40.4        	| 38.2        	| 39.3        	|
-| 295		  	|		     	| 11.0       	| nd?         	| 11.0        	|
-| 297		 	| 			   	| 23.6       	| 21.0      	| 22.3       	|
-| 559		  	|		     	| 64.4       	| 61.2        	| 62.8        	|
-| 623		 	| 			   	| 36.0        	| 33.6         	| 34.8        	|
-| 625		  	|		     	| 12.4       	| 10.2         	| 11.3        	|
-| 829		 	| 			   	| 51.4        	| 48.6         	| 50.0        	|
-| 833		  	|		     	| 17.0        	| 15.2        	| 16.1        	|
-| 837		 	| 			   	| 31.2        	| 29.0         	| 30.1        	|
+| 11		 	|		     	| 26.4	     	| 25.2	     	| 25.8        	|
+| 35		 	| 			   	| 10.1      	| 10.6        	| 10.35         |
+| 65		  	|		     	| nd 	      	| nd        	| nd        	|
+| 327		 	| 			   	| 113        	| 113        	| 113        	|
+| 329		  	|		     	| 34.6      	| 34.4         	| 34.5        	|
+| 337		 	| 			   	| 2.72       	| 2.64      	| 2.68       	|
+| 637		  	|		     	| 19.6       	| 19.7        	| 19.65        	|
+| 643		 	| 			   	| 40.8        	| 41.0         	| 40.9       	|
+| 655		  	|		     	| nd  	     	| nd         	| nd        	|
+| 849		 	| 			   	| 21.6        	| 21.6         	| 21.6        	|
+| 851		  	|		     	| 40.8        	| 40.4        	| 40.6        	|
+| 855		 	| 			   	| 5.68        	| 5.76         	| 5.72        	|
 
 
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) 
- - Tape station every sample, because I did not trust the qubit and those funky readings
  - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/36ffd6d6d8795d69b528caa6644a7871bff3272b/images/tape_station/2021-09-24%20-%2013.45.33.pdf)
 
 **Gel**
@@ -99,8 +98,7 @@ Extractions from the three coral species from each of the four timepoints
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~8ul of RNA
  - Loaded my gel with the DNA first, then skipped a well and then the RNA
  - Ran the gel for 60 minutes at 60 volts
- ![20210924_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210924_gel.jpg?raw=true)
+ ![20210930_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210924_gel.jpg?raw=true)
  
  **Addtional Notes**
-  - 297 and 625 some pigment carryover
-  - no clue what was going on with the qubit, gel and tape station look okay
+  - 327 some pigment carryover
