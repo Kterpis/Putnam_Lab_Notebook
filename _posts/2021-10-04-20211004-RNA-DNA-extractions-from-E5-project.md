@@ -21,14 +21,14 @@ Extractions from the three coral species from each of the four timepoints
 | 153			| January	 	| *Acropora*	| ACR-234	    | 20200103		| 2				|
 | 155		 	| January	  	| *Pocillopora*	| POC-222    	| 20200103  	| 2				|
 | 281		 	| March		 	| *Porites*		| POR-260     	| 20200303   	| 2				|
-| 291			| March 		| *Pocillopora*	| POC-201	    | 20200303		| 2				|
-| 299		 	| March	  		| *Acropora*	| ACR-347    	| 20200304  	| 3				|
+| 291			| March 		| *Acropora*	| POC-201	    | 20200303		| 2				|
+| 299		 	| March	  		| *Pocillopora*	| ACR-347    	| 20200304  	| 3				|
 | 513		 	| Sept		 	| *Porites*		| POR-72      	| 20200911   	| 1				|
-| 519			| Sept	 		| *Pocillopora*	| POC-48	    | 20200911		| 1				|
+| 519			| Sept	 		| *Acropora*	| POC-48	    | 20200911		| 1				|
 | 521		 	| Sept		  	| *Pocillopora*	| POC-43     	| 20200911  	| 1				|
 | 793		 	| November	 	| *Porites*		| POR-353   	| 20201031   	| 3				|
-| 809			| November	 	| *Pocillopora*	| POC-358	    | 20201031		| 3				|
-| 813		 	| November	  	| *Acropora*	| ACR-393    	| 20201031  	| 3				|
+| 809			| November	 	| *Acropora*	| POC-358	    | 20201031		| 3				|
+| 813		 	| November	  	| *Pocillopora*	| ACR-393    	| 20201031  	| 3				|
 
 **Extraction notes**
  - ACR and POC samples: pulled out 300ul of shield
