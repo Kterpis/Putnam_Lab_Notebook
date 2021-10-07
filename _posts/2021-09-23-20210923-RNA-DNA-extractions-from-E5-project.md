@@ -102,4 +102,4 @@ Extractions from the three coral species from each of the four timepoints
  ![20210923_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210923_gel.jpg?raw=true)
  
  **Addtional Notes**
-  - NA
+  - Even though qubit did not detect any gDNA in 97 or RNA in 97 there are bands on the gel

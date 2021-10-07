@@ -102,3 +102,4 @@ Extractions from the three coral species from each of the four timepoints
  
  **Addtional Notes**
   - 327 some pigment carryover
+  - Even though qubit detected no gDNA in 637, there's a band in the gel

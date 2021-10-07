@@ -103,3 +103,4 @@ Extractions from the three coral species from each of the four timepoints
  **Addtional Notes**
   - 677 some pigment carryover
   - 455 in the sample vial was super dark
+  - There is band on the gDNA gel for 247 even though qubit said none
