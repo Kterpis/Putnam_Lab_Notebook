@@ -69,25 +69,26 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| RFU		   	| RNA 1 (ng/uL) | RNA 2 (ng/uL) | Average     	|
 |-------------	|------------	|-------------	|-------------	|-------------	|
-| Standard 1  	| 368.89	 	| 		      	| 		      	|	         	|
-| Standard 2 	| 6287.72	 	| 		    	| 		    	| 	        	|
-| 21		 	|		     	| 5.48	     	| 5.50	     	| 5.49        	|
-| 55		 	| 			   	| 51.2      	| 51.0        	| 51.1			|
-| 139		  	|		     	| 44.0 	      	| 42.6        	| 43.3        	|
-| 381		 	| 			   	| 2.08        	| 2.06        	| 2.07       	|
-| 383		  	|		     	| 84.0      	| 83.8         	| 83.9        	|
-| 405		 	| 			   	| 9.46       	| 9.39      	| 9.43       	|
-| 641		  	|		     	| nd	       	| nd        	| nd        	|
-| 657		 	| 			   	| 64.2       	| 65.4         	| 64.8       	|
-| 695		  	|		     	| 60.8  	    | 61.2         	| 61.0        	|
-| 745		 	| 			   	| 13.7        	| 13.5         	| 13.6        	|
-| 761		  	|		     	| 4.52        	| 4.54        	| 4.53        	|
-| 799		 	| 			   	| 9.98        	| 9.78         	| 9.88        	|
+| Standard 1  	| 378.09	 	| 		      	| 		      	|	         	|
+| Standard 2 	| 7098.82	 	| 		    	| 		    	| 	        	|
+| 21		 	|		     	| 13.2	     	| 13.2	     	| 13.2        	|
+| 55		 	| 			   	| 10.2      	| 11.6        	| 10.9			|
+| 139		  	|		     	| 13.6 	      	| 13.0        	| 13.3        	|
+| 381		 	| 			   	| 31.4        	| 32.3      	| 31.85       	|
+| 383		  	|		     	| 41.6      	| 42.2         	| 41.9        	|
+| 405		 	| 			   	| 28.2       	| 27.8      	| 28.0       	|
+| 641		  	|		     	| 14.6	       	| 14.6        	| 14.6      	|
+| 657		 	| 			   	| 51.2       	| 50.8         	| 51.0       	|
+| 695		  	|		     	| 49.0  	    | 49.2         	| 49.1        	|
+| 745		 	| 			   	| nd        	| nd         	| nd        	|
+| 761		  	|		     	| 14.0        	| 13.6        	| 13.8        	|
+| 799		 	| 			   	| 42.6        	| 42.4         	| 42.5        	|
 
 
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) 
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/95725f26e714dd7785ad14f1c1f9eb20ecf3d48f/images/tape_station/2021-09-30%20-%2013.48.52.pdf)
+ - Did not tape station 745
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/b9e9b09cf193e8ca095958f814c6934ba6b40eaf/images/tape_station/2021-10-01%20-%2013.41.00.pdf)
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
@@ -98,7 +99,8 @@ Extractions from the three coral species from each of the four timepoints
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~8ul of RNA
  - Loaded my gel with the DNA first, then skipped a well and then the RNA
  - Ran the gel for 60 minutes at 60 volts
- ![20210930_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210930_gel.jpg?raw=true)
+ ![20211001_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210930_gel.jpg?raw=true)
  
  **Addtional Notes**
   - 381, 641, 745 some pigment carryover
+  - Even though qubit did not detect any gDNA in 21, there is a band in the gel

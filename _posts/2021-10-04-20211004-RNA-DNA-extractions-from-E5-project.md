@@ -17,15 +17,15 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 131		 	| January	 	| *Porites*		| POR-242      	| 20200103   	| 2				|
-| 153			| January	 	| *Acropora*	| ACR-234	    | 20200103		| 2				|
-| 155		 	| January	  	| *Pocillopora*	| POC-222    	| 20200103  	| 2				|
+| 131		 	| January	 	| *Porites*		| POR-242      	| 20200106   	| 3				|
+| 153			| January	 	| *Acropora*	| ACR-234	    | 20200106		| 3				|
+| 155		 	| January	  	| *Pocillopora*	| POC-222    	| 20200106  	| 3				|
 | 281		 	| March		 	| *Porites*		| POR-260     	| 20200303   	| 2				|
 | 291			| March 		| *Acropora*	| POC-201	    | 20200303		| 2				|
-| 299		 	| March	  		| *Pocillopora*	| ACR-347    	| 20200304  	| 3				|
-| 513		 	| Sept		 	| *Porites*		| POR-72      	| 20200911   	| 1				|
-| 519			| Sept	 		| *Acropora*	| POC-48	    | 20200911		| 1				|
-| 521		 	| Sept		  	| *Pocillopora*	| POC-43     	| 20200911  	| 1				|
+| 299		 	| March	  		| *Pocillopora*	| ACR-347    	| 20200303  	| 2				|
+| 513		 	| Sept		 	| *Porites*		| POR-72      	| 20200910   	| 2				|
+| 519			| Sept	 		| *Acropora*	| POC-48	    | 20200910		| 2				|
+| 521		 	| Sept		  	| *Pocillopora*	| POC-43     	| 20200910  	| 2				|
 | 793		 	| November	 	| *Porites*		| POR-353   	| 20201031   	| 3				|
 | 809			| November	 	| *Acropora*	| POC-358	    | 20201031		| 3				|
 | 813		 	| November	  	| *Pocillopora*	| ACR-393    	| 20201031  	| 3				|
@@ -101,4 +101,5 @@ Extractions from the three coral species from each of the four timepoints
  ![20210930_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210930_gel.jpg?raw=true)
  
  **Addtional Notes**
-  - 327 some pigment carryover
+  - 793 some pigment carryover
+  - Both RNA gel and tape station don't look great
