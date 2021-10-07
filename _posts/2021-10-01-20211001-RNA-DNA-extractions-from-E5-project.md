@@ -99,8 +99,9 @@ Extractions from the three coral species from each of the four timepoints
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~8ul of RNA
  - Loaded my gel with the DNA first, then skipped a well and then the RNA
  - Ran the gel for 60 minutes at 60 volts
- ![20211001_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210930_gel.jpg?raw=true)
+ ![20211001_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20211001_gel.jpg?raw=true)
  
  **Addtional Notes**
   - 381, 641, 745 some pigment carryover
   - Even though qubit did not detect any gDNA in 21, there is a band in the gel
+  - Qubit also did not detect any RNA in 745, but there is a good band in the gel
