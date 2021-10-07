@@ -17,18 +17,18 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 135		 	| January	 	| *Porites*		| POR-242      	| 20200103   	| 2				|
-| 141			| January	 	| *Acropora*	| ACR-234	    | 20200103		| 2				|
-| 149		 	| January	  	| *Pocillopora*	| POC-222    	| 20200103  	| 2				|
-| 289		 	| March		 	| *Porites*		| POR-260     	| 20200303   	| 2				|
-| 295			| March 		| *Pocillopora*	| POC-201	    | 20200303		| 2				|
-| 297		 	| March	  		| *Acropora*	| ACR-347    	| 20200304  	| 3				|
-| 559		 	| Sept		 	| *Porites*		| POR-72      	| 20200911   	| 1				|
-| 623			| Sept	 		| *Pocillopora*	| POC-48	    | 20200911		| 1				|
-| 625		 	| Sept		  	| *Pocillopora*	| POC-43     	| 20200911  	| 1				|
-| 829		 	| November	 	| *Porites*		| POR-353   	| 20201031   	| 3				|
-| 833			| November	 	| *Pocillopora*	| POC-358	    | 20201031		| 3				|
-| 837		 	| November	  	| *Acropora*	| ACR-393    	| 20201031  	| 3				|
+| 201		 	| January	 	| *Porites*		| POR-242      	| 20200110   	| 1				|
+| 249			| January	 	| *Acropora*	| ACR-234	    | 20200110		| 1				|
+| 265		 	| January	  	| *Pocillopora*	| POC-222    	| 20200110  	| 1				|
+| 451		 	| March		 	| *Porites*		| POR-260     	| 20200304   	| 3				|
+| 463			| March 		| *Pocillopora*	| POC-201	    | 20200304		| 3				|
+| 465		 	| March	  		| *Acropora*	| ACR-347    	| 20200304  	| 3				|
+| 671		 	| Sept		 	| *Porites*		| POR-72      	| 20200911   	| 1				|
+| 689			| Sept	 		| *Pocillopora*	| POC-48	    | 20200911		| 1				|
+| 691		 	| Sept		  	| *Pocillopora*	| POC-43     	| 20200911  	| 1				|
+| 815		 	| November	 	| *Porites*		| POR-353   	| 20201031   	| 3				|
+| 819			| November	 	| *Pocillopora*	| POC-358	    | 20201031		| 3				|
+| 825		 	| November	  	| *Acropora*	| ACR-393    	| 20201031  	| 3				|
 
 **Extraction notes**
  - ACR and POC samples: pulled out 300ul of shield
