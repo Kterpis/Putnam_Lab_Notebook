@@ -103,3 +103,4 @@ Extractions from the three coral species from each of the four timepoints
  **Addtional Notes**
   - 793 some pigment carryover
   - Both RNA gel and tape station don't look great
+  - There is a band in 131 gDNA even though qubit did not detect any
