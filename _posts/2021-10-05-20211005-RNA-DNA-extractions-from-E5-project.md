@@ -31,7 +31,7 @@ Extractions from the three coral species from each of the four timepoints
 | 825		 	| November	  	| *Pocillopora*	| POC-391    	| 20201031  	| 3				|
 
 
-![20210930_gel.jpg](https://github.com/KterpiLab_Notebook/blob/master/images/gels/20210930_gel.jpg?raw=true)
+![20211005_samples.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/samples/20211005_samples.jpg?raw=true)
 
 
 **Extraction notes**
