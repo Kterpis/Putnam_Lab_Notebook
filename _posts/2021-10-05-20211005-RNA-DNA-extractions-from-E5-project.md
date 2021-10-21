@@ -17,18 +17,22 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 201		 	| January	 	| *Porites*		| POR-242      	| 20200110   	| 1				|
-| 249			| January	 	| *Acropora*	| ACR-234	    | 20200110		| 1				|
-| 265		 	| January	  	| *Pocillopora*	| POC-222    	| 20200110  	| 1				|
-| 451		 	| March		 	| *Porites*		| POR-260     	| 20200304   	| 3				|
-| 463			| March 		| *Pocillopora*	| POC-201	    | 20200304		| 3				|
-| 465		 	| March	  		| *Acropora*	| ACR-347    	| 20200304  	| 3				|
-| 671		 	| Sept		 	| *Porites*		| POR-72      	| 20200911   	| 1				|
-| 689			| Sept	 		| *Pocillopora*	| POC-48	    | 20200911		| 1				|
-| 691		 	| Sept		  	| *Pocillopora*	| POC-43     	| 20200911  	| 1				|
-| 815		 	| November	 	| *Porites*		| POR-353   	| 20201031   	| 3				|
-| 819			| November	 	| *Pocillopora*	| POC-358	    | 20201031		| 3				|
-| 825		 	| November	  	| *Acropora*	| ACR-393    	| 20201031  	| 3				|
+| 201		 	| January	 	| *Porites*		| POR-76      	| 20200110   	| 1				|
+| 249			| January	 	| *Acropora*	| ACR-186	    | 20200110		| 1				|
+| 265		 	| January	  	| *Pocillopora*	| POC-50    	| 20200110  	| 1				|
+| 451		 	| March		 	| *Porites*		| POR-384     	| 20200304   	| 3				|
+| 463			| March 		| *Acropora*	| ACR-396	    | 20200304		| 3				|
+| 465		 	| March	  		| *Pocillopora*	| POC-386    	| 20200304  	| 3				|
+| 671		 	| Sept		 	| *Porites*		| POR-69      	| 20200911   	| 1				|
+| 689			| Sept	 		| *Acropora*	| ACR-173	    | 20200911		| 1				|
+| 691		 	| Sept		  	| *Pocillopora*	| POC-55     	| 20200911  	| 1				|
+| 815		 	| November	 	| *Porites*		| POR-383   	| 20201031   	| 3				|
+| 819			| November	 	| *Acropora*	| ACR-374	    | 20201031		| 3				|
+| 825		 	| November	  	| *Pocillopora*	| POC-391    	| 20201031  	| 3				|
+
+
+![20210930_gel.jpg](https://github.com/KterpiLab_Notebook/blob/master/images/gels/20210930_gel.jpg?raw=true)
+
 
 **Extraction notes**
  - ACR and POC samples: pulled out 300ul of shield
@@ -48,20 +52,20 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| RFU		   	| DNA 1 (ng/uL) | DNA 2 (ng/uL) | Average     	|
 |-------------	|------------	|-------------	|-------------	|-------------	|
-| Standard 1  	| 213.55	 	| 		      	| 		      	|	         	|
-| Standard 2 	| 21639.23	 	| 		    	| 		    	| 	        	|
-| 11		 	|		     	| 5.48	     	| 5.50	     	| 5.49        	|
-| 35		 	| 			   	| 51.2      	| 51.0        	| 51.1			|
-| 65		  	|		     	| 44.0 	      	| 42.6        	| 43.3        	|
-| 327		 	| 			   	| 2.08        	| 2.06        	| 2.07       	|
-| 329		  	|		     	| 84.0      	| 83.8         	| 83.9        	|
-| 337		 	| 			   	| 9.46       	| 9.39      	| 9.43       	|
-| 637		  	|		     	| nd	       	| nd        	| nd        	|
-| 643		 	| 			   	| 64.2       	| 65.4         	| 64.8       	|
-| 655		  	|		     	| 60.8  	    | 61.2         	| 61.0        	|
-| 849		 	| 			   	| 13.7        	| 13.5         	| 13.6        	|
-| 851		  	|		     	| 4.52        	| 4.54        	| 4.53        	|
-| 855		 	| 			   	| 9.98        	| 9.78         	| 9.88        	|
+| Standard 1  	| 197.06	 	| 		      	| 		      	|	         	|
+| Standard 2 	| 22682.93	 	| 		    	| 		    	| 	        	|
+| 201		 	|		     	| nd	     	| nd	     	| nd        	|
+| 249		 	| 			   	| 16.6      	| 16.8        	| 16.7			|
+| 265		  	|		     	| 12.1 	      	| 12.2        	| 12.15        	|
+| 451		 	| 			   	| 9.70        	| 9.50        	| 9.60      	|
+| 463		  	|		     	| 8.10      	| 8.14         	| 8.12        	|
+| 465		 	| 			   	| 31.8       	| 31.6      	| 31.7       	|
+| 671		  	|		     	| 4.50	       	| 4.42        	| 4.46        	|
+| 689		 	| 			   	| 19.8       	| 19.6         	| 19.7       	|
+| 691		  	|		     	| 20.2  	    | 20.0         	| 20.1        	|
+| 815		 	| 			   	| 4.44        	| 4.40         	| 4.42        	|
+| 819		  	|		     	| nd        	| nd        	| nd        	|
+| 825		 	| 			   	| 3.44        	| 3.38         	| 3.41        	|
 
 
 **RNA**
@@ -69,25 +73,27 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| RFU		   	| RNA 1 (ng/uL) | RNA 2 (ng/uL) | Average     	|
 |-------------	|------------	|-------------	|-------------	|-------------	|
-| Standard 1  	| 368.89	 	| 		      	| 		      	|	         	|
-| Standard 2 	| 6287.72	 	| 		    	| 		    	| 	        	|
-| 11		 	|		     	| 17.0	     	| 16.8	     	| 16.9        	|
-| 35		 	| 			   	| 18.6      	| 18.4        	| 18.5          |
-| 65		  	|		     	| 35.4	      	| 37.0      	| 36.2       	|
-| 327		 	| 			   	| 28.2       	| 29.0       	| 28.6        	|
-| 329		  	|		     	| 57.2      	| 59.4         	| 58.3        	|
-| 337		 	| 			   	| 14.6       	| 14.6      	| 14.6       	|
-| 637		  	|		     	| 29.0       	| 29.4        	| 29.2        	|
-| 643		 	| 			   	| 53.6        	| 53.0         	| 53.3       	|
-| 655		  	|		     	| 42.4	     	| 40.8        	| 41.6        	|
-| 849		 	| 			   	| 13.8        	| 14.2         	| 14.0        	|
-| 851		  	|		     	| 59.4        	| 58.8        	| 59.1        	|
-| 855		 	| 			   	| 17.8        	| 17.6         	| 17.7        	|
+| Standard 1  	| 375.91	 	| 		      	| 		      	|	         	|
+| Standard 2 	| 6897.10	 	| 		    	| 		    	| 	        	|
+| 201		 	|		     	| 22.2	     	| 21.8	     	| 22.0       	|
+| 249		 	| 			   	| nd	      	| nd        	| nd			|
+| 265		  	|		     	| 13.2	      	| 13.2        	| 13.2        	|
+| 451		 	| 			   	| 14.6        	| 14.8       	| 14.7       	|
+| 463		  	|		     	| 15.0      	| 15.6         	| 15.3        	|
+| 465		 	| 			   	| 46.2       	| 45.2      	| 45.7       	|
+| 671		  	|		     	| 18.0	       	| 18.2        	| 18.1        	|
+| 689		 	| 			   	| 15.2       	| 15.0         	| 15.1      	|
+| 691		  	|		     	| 44.6  	    | 44.2         	| 44.4        	|
+| 815		 	| 			   	| 29.8        	| 29.2         	| 29.5        	|
+| 819		  	|		     	| 21.0        	| 20.8        	| 20.9        	|
+| 825		 	| 			   	| 51.2        	| 50.6         	| 50.9        	|
 
 
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) 
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/95725f26e714dd7785ad14f1c1f9eb20ecf3d48f/images/tape_station/2021-09-30%20-%2013.48.52.pdf)
+ - I learned that you cannot split a tapestation run over three partially used tapes. This is why it's split across two files. ~learning~
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/b6764fcbfb6ecf73459c37a846f012af54ec2788/images/tape_station/2021-10-05%20-%2014.47.04.pdf)
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/b6764fcbfb6ecf73459c37a846f012af54ec2788/images/tape_station/2021-10-05%20-%2014.27.18.pdf)
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
@@ -101,4 +107,4 @@ Extractions from the three coral species from each of the four timepoints
  ![20210930_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20210930_gel.jpg?raw=true)
  
  **Addtional Notes**
-  - 327 some pigment carryover
+  - 201 and 815 some pigment carryover. 671 was very pigmented
