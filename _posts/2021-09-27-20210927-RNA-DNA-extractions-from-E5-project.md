@@ -61,7 +61,7 @@ Extractions from the three coral species from each of the four timepoints
 | 667		  	|		     	| 48.4       	| 47.8         	| 48.1        	|
 | 803		 	| 			   	| 2.80        	| 2.84         	| 2.82        	|
 | 821		  	|		     	| 25.4        	| 23.8        	| 24.6        	|
-| 807		 	| 			   	| 24.2        	| 23.6         	| 23.9        	|
+| 835		 	| 			   	| 24.2        	| 23.6         	| 23.9        	|
 
 
 **RNA**
@@ -82,7 +82,7 @@ Extractions from the three coral species from each of the four timepoints
 | 667		  	|		     	| 29.2       	| 29.8         	| 29.5        	|
 | 803		 	| 			   	| 25.0        	| 25.0         	| 25.0        	|
 | 821		  	|		     	| 29.2        	| 29.4        	| 29.3        	|
-| 807		 	| 			   	| nd        	| nd         	| nd        	|
+| 835		 	| 			   	| nd        	| nd         	| nd        	|
 
 
 
