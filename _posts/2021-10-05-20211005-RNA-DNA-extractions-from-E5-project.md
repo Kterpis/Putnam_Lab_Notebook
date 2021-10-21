@@ -108,3 +108,4 @@ Extractions from the three coral species from each of the four timepoints
  
  **Addtional Notes**
   - 201 and 815 some pigment carryover. 671 was very pigmented
+  - gel looks like absolute garbage
