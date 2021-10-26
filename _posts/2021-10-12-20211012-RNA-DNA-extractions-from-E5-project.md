@@ -17,18 +17,18 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 15		 	| January	 	| *Porites*		| POR-236      	| 20200103   	| 2				|
-| 37			| January	 	| *Acropora*	| ACR-244	    | 20200103		| 2				|
-| 71		 	| January	  	| *Pocillopora*	| POC-200    	| 20200103  	| 2				|
-| 379		 	| March		 	| *Porites*		| POR-82     	| 20200304   	| 3				|
-| 385			| March 		| *Pocillopora*	| ACR-343	    | 20200304		| 1				|
-| 427		 	| March	  		| *Acropora*	| POC-378    	| 20200305  	| 1				|
-| 591		 	| Sept		 	| *Porites*		| POR-251     	| 20200908   	| 3				|
-| 659			| Sept	 		| *Pocillopora*	| POR-383	    | 20200911		| 1				|
-| 675		 	| Sept		  	| *Acropora*	| POR-391     	| 20200911  	| 1				|
-| 723		 	| November	 	| *Porites*		| POR-341	   	| 20201101   	| 1				|
-| 729			| November	 	| *Pocillopora*	| POC-377	    | 20201101		| 1				|
-| 817		 	| November	  	| *Acropora*	| ACR-343    	| 20201031  	| 3				|
+| 15		 	| January	 	| *Porites*		| POR-251      	| 20200103   	| 2				|
+| 37			| January	 	| *Acropora*	| ACR-243	    | 20200103		| 2				|
+| 71		 	| January	  	| *Pocillopora*	| POC-248    	| 20200103  	| 2				|
+| 379		 	| March		 	| *Porites*		| POR-383     	| 20200304   	| 3				|
+| 385			| March 		| *Pocillopora*	| POC-47	    | 20200304		| 1				|
+| 427		 	| March	  		| *Acropora*	| ACR-145    	| 20200305  	| 1				|
+| 591		 	| Sept		 	| *Porites*		| POR-555     	| 20200908   	| 3				|
+| 659			| Sept	 		| *Pocillopora*	| POC-52	    | 20200911		| 1				|
+| 675		 	| Sept		  	| *Acropora*	| ACR-140     	| 20200911  	| 1				|
+| 723		 	| November	 	| *Porites*		| POR-82	   	| 20201101   	| 1				|
+| 729			| November	 	| *Pocillopora*	| POC-57	    | 20201101		| 1				|
+| 817		 	| November	  	| *Acropora*	| ACR-398    	| 20201031  	| 3				|
 
 
 ![20211012_samples.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/samples/20211012_samples.jpg?raw=true)
@@ -55,17 +55,17 @@ Extractions from the three coral species from each of the four timepoints
 | Standard 1  	| 195.82	 	| 		      	| 		      	|	         	|
 | Standard 2 	| 22265.51	 	| 		    	| 		    	| 	        	|
 | 15		 	|		     	| nd	     	| nd	     	| nd        	|
-| 37		 	| 			   	| 31.4  	    | 30.8        	| 31.1			|
-| 71		  	|		     	| 59.4 	      	| 59.0        	| 59.2        	|
-| 379		 	| 			   	| 3.46        	| 3.36        	| 3.41      	|
-| 385		  	|		     	| 24.6      	| 23.8         	| 24.2        	|
-| 427		 	| 			   	| 33.6      	| 33.4	      	| 33.5       	|
-| 591		  	|		     	| 4.10	       	| 4.00        	| 4.05        	|
-| 659		 	| 			   	| 26.4       	| 26.6         	| 26.5       	|
-| 675		  	|		     	| 13.5  	    | 13.6         	| 13.55        	|
-| 723		 	| 			   	| 6.02        	| 5.82         	| 5.92        	|
-| 729		  	|		     	| 2.48      	| 2.36      	| 2.42       	|
-| 817		 	| 			   	| 45.2        	| 44.6         	| 44.9        	|
+| 37		 	| 			   	| 62.2  	    | 62.6        	| 62.4			|
+| 71		  	|		     	| 48.6 	      	| 48.6        	| 48.6        	|
+| 379		 	| 			   	| 2.46        	| 2.46        	| 2.46      	|
+| 385		  	|		     	| 25.6      	| 25.4         	| 25.5        	|
+| 427		 	| 			   	| 19.6      	| 19.6	      	| 19.6       	|
+| 591		  	|		     	| nd	       	| nd        	| nd        	|
+| 659		 	| 			   	| 60.2       	| 60.4         	| 60.3       	|
+| 675		  	|		     	| 45.6  	    | 45.6         	| 45.6        	|
+| 723		 	| 			   	| 2.82        	| 2.76         	| 2.79        	|
+| 729		  	|		     	| 50.8      	| 51.0      	| 50.9       	|
+| 817		 	| 			   	| 19.0        	| 18.8         	| 18.9        	|
 
 
 **RNA**
@@ -73,20 +73,20 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| RFU		   	| RNA 1 (ng/uL) | RNA 2 (ng/uL) | Average     	|
 |-------------	|------------	|-------------	|-------------	|-------------	|
-| Standard 1  	| 372.52	 	| 		      	| 		      	|	         	|
-| Standard 2 	| 6731.91	 	| 		    	| 		    	| 	        	|
+| Standard 1  	| 379.41	 	| 		      	| 		      	|	         	|
+| Standard 2 	| 7092.84	 	| 		    	| 		    	| 	        	|
 | 15		 	|		     	| nd	     	| nd	     	| nd        	|
-| 37		 	| 			   	| 31.4  	    | 30.8        	| 31.1			|
-| 71		  	|		     	| 59.4 	      	| 59.0        	| 59.2        	|
-| 379		 	| 			   	| 3.46        	| 3.36        	| 3.41      	|
-| 385		  	|		     	| 24.6      	| 23.8         	| 24.2        	|
-| 427		 	| 			   	| 33.6      	| 33.4	      	| 33.5       	|
-| 591		  	|		     	| 4.10	       	| 4.00        	| 4.05        	|
-| 659		 	| 			   	| 26.4       	| 26.6         	| 26.5       	|
-| 675		  	|		     	| 13.5  	    | 13.6         	| 13.55        	|
-| 723		 	| 			   	| 6.02        	| 5.82         	| 5.92        	|
-| 729		  	|		     	| 2.48      	| 2.36      	| 2.42       	|
-| 817		 	| 			   	| 45.2        	| 44.6         	| 44.9        	|
+| 37		 	| 			   	| 13.2  	    | 14.2        	| 13.7			|
+| 71		  	|		     	| 38.4 	      	| 39.2        	| 38.8        	|
+| 379		 	| 			   	| 35.0        	| 35.2        	| 35.1      	|
+| 385		  	|		     	| 31.8      	| 32.0         	| 31.9        	|
+| 427		 	| 			   	| 20.8      	| 20.8	      	| 20.8       	|
+| 591		  	|		     	| 12.6	       	| 13.4        	| 13.0        	|
+| 659		 	| 			   	| 45.2       	| 45.6         	| 45.4       	|
+| 675		  	|		     	| 14.0  	    | 14.4         	| 14.2        	|
+| 723		 	| 			   	| 32.4        	| 32.6         	| 32.5        	|
+| 729		  	|		     	| 32.2      	| 32.8      	| 32.5       	|
+| 817		 	| 			   	| nd        	| nd         	| nd        	|
 
 
 **Tape Station**
