@@ -106,5 +106,6 @@ Extractions from the three coral species from each of the four timepoints
  ![2021015_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20211015_gel.jpg?raw=true)
  
  **Addtional Notes**
+  - There is a band in 81 RNA even though qubit said none
   - 471, and 669 had pigment in the final RNA elution
 
