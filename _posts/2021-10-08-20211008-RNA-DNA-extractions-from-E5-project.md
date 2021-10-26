@@ -31,7 +31,7 @@ Extractions from the three coral species from each of the four timepoints
 | 853		 	| November	  	| *Acropora*	| ACR-343    	| 20201031  	| 3				|
 
 
-![20211007_samples.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/samples/20211007_samples.jpg?raw=true)
+![20211008_samples.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/samples/20211008_samples.jpg?raw=true)
 Tube 73 had a cap that said 73, but the side of the tube said 74
 
 **Extraction notes**
@@ -73,8 +73,8 @@ Tube 73 had a cap that said 73, but the side of the tube said 74
 
 | Tube number 	| RFU		   	| RNA 1 (ng/uL) | RNA 2 (ng/uL) | Average     	|
 |-------------	|------------	|-------------	|-------------	|-------------	|
-| Standard 1  	| 374.98	 	| 		      	| 		      	|	         	|
-| Standard 2 	| 6965.01	 	| 		    	| 		    	| 	        	|
+| Standard 1  	| 372.52	 	| 		      	| 		      	|	         	|
+| Standard 2 	| 6731.91	 	| 		    	| 		    	| 	        	|
 | 23		 	|		     	| 14.9	     	| 14.7	     	| 14.8        	|
 | 39		 	| 			   	| nd  	    	| nd        	| nd			|
 | 73		  	|		     	| 19.3 	      	| 19.0        	| 19.15        	|
@@ -92,7 +92,7 @@ Tube 73 had a cap that said 73, but the side of the tube said 74
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) 
  - Did not tape station # 169 and 543
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/5792f99f66acab403cb94a8841567e88690658cc/images/tape_station/2021-10-07%20-%2015.02.28.pdf)
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/cf5fb93be084628227a2cdd9793a1080a604f7b8/images/tape_station/2021-10-08%20-%2014.04.47.pdf)
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
