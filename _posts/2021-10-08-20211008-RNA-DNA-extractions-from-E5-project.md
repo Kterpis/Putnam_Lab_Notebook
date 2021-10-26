@@ -91,7 +91,6 @@ Tube 73 had a cap that said 73, but the side of the tube said 74
 
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) 
- - Did not tape station # 169 and 543
  - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/cf5fb93be084628227a2cdd9793a1080a604f7b8/images/tape_station/2021-10-08%20-%2014.04.47.pdf)
 
 **Gel**
@@ -103,8 +102,8 @@ Tube 73 had a cap that said 73, but the side of the tube said 74
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~8ul of RNA
  - Loaded my gel with the DNA first, then skipped a well and then the RNA
  - Ran the gel for 60 minutes at 60 volts
- ![2021007_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20211007_gel.jpg?raw=true)
+ ![2021008_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20211008_gel.jpg?raw=true)
  
  **Addtional Notes**
-  - 769 some pigment carryover in RNA.
+  - NA
 
