@@ -41,11 +41,11 @@ Tube 73 had a cap that said 73, but the side of the tube said 74
  - 300ul of shield, 15ul of ProK, and 30ul of ProK digestion buffer, let sit for 2 minutes
  - All spins were done for 1 minute or 2.30 minutes
  - Did two washes with 700ul of wash buffer for both the DNA and RNA
- - Then followed the protocol as described in [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md)
+ - Then followed the protocol as described in [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md){:target="_blank"}
 
 
 **Qubit**
- - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+ - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/){:target="_blank"}
  - All samples read twice, standard only read once
  
 **DNA**
@@ -90,11 +90,11 @@ Tube 73 had a cap that said 73, but the side of the tube said 74
 
 
 **Tape Station**
- - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) 
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/cf5fb93be084628227a2cdd9793a1080a604f7b8/images/tape_station/2021-10-08%20-%2014.04.47.pdf)
+ - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/){:target="_blank"} 
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/cf5fb93be084628227a2cdd9793a1080a604f7b8/images/tape_station/2021-10-08%20-%2014.04.47.pdf){:target="_blank"}
 
 **Gel**
- - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
+ - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/){:target="_blank"}
  - Added 0.75g of agarose and 50ml of 1x TAE to flask and microwaved for 45 seconds. This makes a 1.5% gel
  - Once cool enough to touch added 2ul of gel red stain
  - Swirled and poured into gel mould with comb
