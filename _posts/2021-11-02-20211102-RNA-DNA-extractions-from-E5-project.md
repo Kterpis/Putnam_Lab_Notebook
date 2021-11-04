@@ -94,7 +94,7 @@ Extractions from the three coral species from each of the four timepoints
  - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/38dd3475c5ddcbc851cd16752c1d642ba43adff7/images/tape_station/2021-11-02%20-%2014.31.16.pdf){:target="_blank"}
 
 **Gel**
- - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/){:target="_blank"}
+ - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/) {:target="_blank"}
  - Added 0.75g of agarose and 50ml of 1x TAE to flask and microwaved for 45 seconds. This makes a 1.5% gel
  - Once cool enough to touch added 2ul of gel red stain
  - Swirled and poured into gel mould with comb
