@@ -36,11 +36,11 @@ Extractions from each of the three coral species from each of the four timepoint
  - 300ul of shield, 15ul of ProK, and 30ul of ProK digestion buffer, let sit for 2 minutes
  - All spins were done for 1 minute or 2.30 minutes
  - Did two washes with 700ul of wash buffer for both the DNA and RNA
- - Then followed the protocol as described in [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md){:target="_blank"}
+ - Then followed the protocol as described in [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md)
 
 
 **Qubit**
- - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/){:target="_blank"}
+ - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
  - All samples read twice, standard only read once
  
 **DNA**
@@ -85,12 +85,12 @@ Extractions from each of the three coral species from each of the four timepoint
 
 
 **Tape Station**
- - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/){:target="_blank"}
+ - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
  - I did not tape station 19 because there was no detectable RNA 
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/fc003cbb3fd055d9f33ec3a529365b15ce2b8b9d/images/tape_station/2021-09-07%20-%2014.56.44.pdf){:target="_blank"}
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/fc003cbb3fd055d9f33ec3a529365b15ce2b8b9d/images/tape_station/2021-09-07%20-%2014.56.44.pdf)
 
 **Gel**
- - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/){:target="_blank"}
+ - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
  - Added 0.75g of agarose and 50ml of 1x TAE to flask and microwaved for 45 seconds. This makes a 1.5% gel
  - Once cool enough to touch added 2ul of gel red stain
  - Swirled and poured into gel mould with comb

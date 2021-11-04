@@ -37,11 +37,11 @@ Extractions from the three coral species from each of the four timepoints
  - 300ul of shield, 15ul of ProK, and 30ul of ProK digestion buffer, let sit for 2 minutes
  - All spins were done for 1 minute or 2.30 minutes
  - Did two washes with 700ul of wash buffer for both the DNA and RNA
- - Then followed the protocol as described in [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md){:target="_blank"}
+ - Then followed the protocol as described in [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md)
 
 
 **Qubit**
- - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/){:target="_blank"}
+ - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
  - All samples read twice, standard only read once
  
 **DNA**
@@ -86,8 +86,8 @@ Extractions from the three coral species from each of the four timepoints
 
 
 **Tape Station**
- - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/){:target="_blank"} 
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/95725f26e714dd7785ad14f1c1f9eb20ecf3d48f/images/tape_station/2021-09-30%20-%2013.48.52.pdf){:target="_blank"}
+ - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/95725f26e714dd7785ad14f1c1f9eb20ecf3d48f/images/tape_station/2021-09-30%20-%2013.48.52.pdf)
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)

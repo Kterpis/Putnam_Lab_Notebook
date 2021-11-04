@@ -29,11 +29,11 @@ Extractions from each of the three coral species for the 5E project. One vial fr
  - After bead beating the samples, I briefly centrifuged them down to help get the debris to the bottom of the tube and help get rid of some of the foam
  - Pulled 300ul of this out and added it to a new 1.5ml tube and used it for the extraction. The volume remaining was placed back into the -80C
  - 300ul of tissue homogenate, 15ul of ProK, and 30ul of ProK digestion buffer
- - Then followed the protocol as described in [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md){:target="_blank"}
+ - Then followed the protocol as described in [protocol](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-05-31-Zymo-Duet-RNA-DNA-Extraction-Protocol.md)
 
 
 **Qubit**
- - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/){:target="_blank"}
+ - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
  - All samples read twice, standard only read once
  
 **DNA**
@@ -61,12 +61,11 @@ Extractions from each of the three coral species for the 5E project. One vial fr
 
 
 **Tape Station**
- - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/){:target="_blank"}
+ - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
  - I did not tape station the first sample because there was no detectable RNA 
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/tape_station/2021-08-24%20-%2014.42.08.pdf){:target="_blank"}
-
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/tape_station/2021-08-24%20-%2014.42.08.pdf)
 **Gel**
- - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/){:target="_blank"}
+ - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
  - Added 0.75g of agarose and 50ml of 1x TAE to flask and microwaved for 45 seconds. This makes a 1.5% gel
  - Once cool enough to touch added 2ul of gel red stain
  - Swirled and poured into gel mould with comb

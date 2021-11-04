@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 20211102 RNA DNA extractions from E5 project
-date: '2021-11-02'
+title: 20211101 RNA DNA extractions from E5 project
+date: '2021-11-01'
 categories: Processing
 tags: DNA RNA
 ---
@@ -12,7 +12,7 @@ Extractions from the three coral species from each of the four timepoints
 
 ---
 
-#### Extraction Date: November 02, 2021 
+#### Extraction Date: November 01, 2021 
 **Samples**
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
@@ -31,7 +31,7 @@ Extractions from the three coral species from each of the four timepoints
 | 935		 	| November	  	| *Acropora*	| ACR-256    	| 20201030  	| 2				|
 
 
-![20211102_samples.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/samples/20211102_samples.jpg?raw=true)
+![20211101_samples.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/samples/20211101_samples.jpg?raw=true)
 
 
 **Extraction notes**
@@ -91,8 +91,7 @@ Extractions from the three coral species from each of the four timepoints
 
 **Tape Station**
  - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
- - Did not tape station number 255
- - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/620b020d916b608f0bf5d23d06d73a08cef591c7/images/tape_station/2021-11-02%20-%2014.31.16.pdf)
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/38dd3475c5ddcbc851cd16752c1d642ba43adff7/images/tape_station/2021-11-02%20-%2014.31.16.pdf)
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
@@ -103,7 +102,7 @@ Extractions from the three coral species from each of the four timepoints
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~8ul of RNA
  - Loaded my gel with the DNA first, then skipped a well and then the RNA
  - Ran the gel for 60 minutes at 60 volts
- ![20211102_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20211102_gel.jpg?raw=true)
+ ![20211101_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20211101_gel.jpg?raw=true)
  
  **Addtional Notes**
   - 445, 593, and 877 had pigment in the final RNA elution
