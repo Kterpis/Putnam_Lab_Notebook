@@ -17,18 +17,18 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 175		 	| January	 	| *Porites*		| POR-81      	| 20200110   	| 1				|
-| 213			| January	 	| *Pocillopora*	| POC-55	    | 20200110		| 1				|
-| 233		 	| January	  	| *Acropora*	| ACR-51    	| 20200110  	| 1				|
-| 419		 	| March		 	| *Porites*		| POR-221    	| 20200303   	| 2				|
-| 443			| March 		| *Pocillopora*	| POC-52	    | 20200305		| 1				|
-| 491		 	| March	  		| *Acropora*	| ACR-173    	| 20200305  	| 1				|
-| 645		 	| Sept		 	| *Acropora*	| ACR-237     	| 20200910   	| 2				|
-| 679			| Sept	 		| *Porites*		| POR-240	    | 20200910		| 2				|
-| 681		 	| Sept		  	| *Pocillopora*	| POC-50    	| 20200911  	| 1				|
-| 845		 	| November	 	| *Porites*		| POR-216	   	| 20201030   	| 2				|
-| 887			| November	 	| *Pocillopora*	| POC254	    | 20201030		| 2				|
-| 897		 	| November	  	| *Acropora*	| ACR-256    	| 20201030  	| 2				|
+| 175		 	| January	 	| *Porites*		| POR-70      	| 20200110   	| 1				|
+| 213			| January	 	| *Pocillopora*	| POC-52	    | 20200110		| 1				|
+| 233		 	| January	  	| *Acropora*	| ACR-185    	| 20200110  	| 1				|
+| 419		 	| March		 	| *Pocillopora*	| POC-369    	| 20200303   	| 2				|
+| 443			| March 		| *Acropora*	| ACR-190	    | 20200305		| 1				|
+| 491		 	| March	  		| *Porites*		| POR-73    	| 20200305  	| 1				|
+| 645		 	| Sept		 	| *Porites*		| POR-82     	| 20200910   	| 2				|
+| 679			| Sept	 		| *Pocillopora*	| POC-68	    | 20200910		| 2				|
+| 681		 	| Sept		  	| *Acropora*	| ACR-178    	| 20200911  	| 1				|
+| 845		 	| November	 	| *Porites*		| POR-384	   	| 20201030   	| 2				|
+| 887			| November	 	| *Pocillopora*	| POC-255	    | 20201030		| 2				|
+| 897		 	| November	  	| *Acropora*	| ACR-210    	| 20201030  	| 2				|
 
 
 ![20211101_samples.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/samples/20211101_samples.jpg?raw=true)
