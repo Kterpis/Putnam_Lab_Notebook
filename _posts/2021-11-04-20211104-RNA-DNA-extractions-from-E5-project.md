@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20211104 RNA DNA extractions from E5 project
-date: '2021-1-04'
+date: '2021-11-04'
 categories: Processing
 tags: DNA RNA
 ---
@@ -13,6 +13,7 @@ Extractions from the three coral species from each of the four timepoints
 ---
 
 #### Extraction Date: November 4, 2021 
+
 **Samples**
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
