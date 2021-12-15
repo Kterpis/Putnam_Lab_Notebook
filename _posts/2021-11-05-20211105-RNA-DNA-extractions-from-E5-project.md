@@ -18,18 +18,18 @@ Extractions from the three coral species from each of the four timepoints
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 7		 		| January	 	| *Porites*		| ACR-256      	| 20200103   	| 2				|
-| 13			| January	 	| *Porites*		| POC-239	    | 20200103		| 2				|
-| 75		 	| January	  	| *Pocillopora*	| POR-354    	| 20200103  	| 2				|
-| 293		 	| March		 	| *Porites*		| POC-238    	| 20200303   	| 2				|
-| 309			| March 		| *Pocillopora*	| ACR-360	    | 20200303		| 2				|
-| 387		 	| March	  		| *Pocillopora*	| POR-367    	| 20200305  	| 1				|
-| 497		 	| Sept		 	| *Porites*		| POC-257     	| 20200910   	| 2				|
-| 531			| Sept	 		| *Acropora*	| POR-341	    | 20200910		| 2				|
-| 563		 	| Sept		  	| *Pocillopora*	| POR-79     	| 20200910  	| 2				|
-| 763		 	| November	 	| *Acropora*	| ACR-145	   	| 20201101   	| 1				|
-| 795			| November	 	| *Porites*		| POC-48	    | 20201031		| 3				|
-| 811		 	| November	  	| *Pocillopora*	| POR-262    	| 20201031  	| 3				|
+| 7		 		| January	 	| *Porites*		| POR-262      	| 20200103   	| 2				|
+| 13			| January	 	| *Porites*		| POR-245	    | 20200103		| 2				|
+| 75		 	| January	  	| *Pocillopora*	| POC-201    	| 20200103  	| 2				|
+| 293		 	| March		 	| *Porites*		| POR-224    	| 20200303   	| 2				|
+| 309			| March 		| *Pocillopora*	| POC-207	    | 20200303		| 2				|
+| 387		 	| March	  		| *Pocillopora*	| POC-44    	| 20200305  	| 1				|
+| 497		 	| Sept		 	| *Porites*		| PO4-253     	| 20200910   	| 2				|
+| 531			| Sept	 		| *Acropora*	| ACR-229	    | 20200910		| 2				|
+| 563		 	| Sept		  	| *Pocillopora*	| POC-254    	| 20200910  	| 2				|
+| 763		 	| November	 	| *Acropora*	| ACR-150	   	| 20201101   	| 1				|
+| 795			| November	 	| *Porites*		| POR-354	    | 20201031		| 3				|
+| 811		 	| November	  	| *Pocillopora*	| POC-360    	| 20201031  	| 3				|
 
 
 ![20211105_samples.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/samples/20211105_samples.jpg?raw=true)
@@ -108,4 +108,3 @@ Extractions from the three coral species from each of the four timepoints
  
  **Addtional Notes**
   - 795 had pigment in the final RNA elution
-
