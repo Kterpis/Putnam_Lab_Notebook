@@ -107,5 +107,5 @@ Extractions from the three coral species from each of the four timepoints
  
  **Addtional Notes**
   - 473, and 903 had pigment in the final RNA elution
-  - Gel looks like absolute trash. I put blame on using gel green instead of gel green.
+  - Gel looks like absolute trash. I put blame on using gel red instead of gel green.
 
