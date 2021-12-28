@@ -63,7 +63,7 @@ Extractions from the three coral species from the first timepoints
 | 209		 	| 			   	| nd	      	| nd	      	| nd	       	|
 | 211		  	|		     	| 11.4	       	| 11.3 	     	| 11.35	       	|
 | 215		 	| 			   	| nd	       	| nd         	| nd	      	|
-| 225		  	|		     	| 10.5	 	    | 10.8         	|         	|
+| 225		  	|		     	| 10.5	 	    | 10.8         	| 10.65        	|
 | 227		 	| 			   	| 12.7        	| 12.7        	| 12.7        	|
 | 229		  	|		     	| 19.5	      	| 19.4 	     	| 19.45       	|
 | 10S		 	| 			   	| 14.0       	| 14.0         	| 14.0       	|
