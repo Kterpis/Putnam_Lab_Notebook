@@ -6,9 +6,9 @@ categories: Processing
 tags: RNA QC
 ---
 
-## DNA/RNA extractions from E5 project
+## Rechecking the RNA from the E5 project
 
-Extractions from each of the three coral species from each of the four timepoints
+Troubleshooting the three coral species from each of the four timepoints
 
 ---
 
