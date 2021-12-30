@@ -57,7 +57,7 @@ Troubleshooting the three coral species from each of the four timepoints
 |-------------	|------------	|-------------	|-------------	|-------------	|
 | Standard 1  	| 54.71		 	| 		      	| 		      	|	         	|
 | Standard 2 	| 761.76	 	| 		    	| 		    	| 	        	|
-| 93		 	|		     	| 4.80	     	| 4.60	     	| nd        	|
+| 93		 	|		     	| 4.80	     	| 4.60	     	| 4.70        	|
 | 95		 	| 			   	| 19.5        	| 19.0         	| 19.25         |
 | 97		  	|		     	| nd        	| nd        	| nd        	|
 | 175		 	| 			   	| 4.80        	| 4.60         	| 4.70       	|
