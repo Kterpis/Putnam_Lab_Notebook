@@ -86,7 +86,7 @@ Troubleshooting the three coral species from each of the four timepoints
 **RNA**
 
 | Tube number 	| ng/uL		   	| 260:230       |
-|-------------	|------------	|-------------	|
+|-------------	|-------------	|-------------	|
 | 93		 	| 5.2		    | 1.26	     	| 
 | 95		 	| 27.8		 	| 0.84        	| 
 | 97		  	| 9.0		    | 0.56        	| 
