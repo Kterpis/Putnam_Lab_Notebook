@@ -123,6 +123,21 @@ Extractions from the coral larvae to be used for TaqSeq
 | 69		  	| 40.0	     	| 1.71        	| 
 
 
+**Tape Station**
+ - Tape station broke! 
+
+**Gel**
+ - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
+ - Added 0.75g of agarose and 50ml of 1x TAE to flask and microwaved for 45 seconds. This makes a 1.5% gel
+ - Once cool enough to touch added 1ul of gel green stain
+ - Swirled and poured into gel mould with comb
+ - Once solidified, covered with 1X TAE as a running buffer
+ - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~8ul of RNA
+ - Made 2 gels, one for the DNA, one for the RNA
+ - Ran the gel for 50 minutes at 60 volts, the RNA gel could have used another 10 minutes to get better seperation between the bands
+ ![20220104DNA_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/220220104DNA_gel.jpg?raw=true)
+ ![20220104RNA_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20220104RNA_gel.jpg?raw=true)
+
 
  **Addtional Notes**
   - 21 samples at once is way too many samples. 
