@@ -12,7 +12,7 @@ Extractions from the coral larvae to be used for TaqSeq
 
 ---
 
-#### Extraction Date: December 30, 2021 
+#### Extraction Date: January 04, 2022 
 
 
 **Extraction notes**
