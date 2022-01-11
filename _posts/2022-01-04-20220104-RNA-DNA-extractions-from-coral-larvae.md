@@ -135,8 +135,8 @@ Extractions from the coral larvae to be used for TaqSeq
  - Added 1ul of purple loading dye to each of my QC strip tube samples. I had ~9ul of DNA leftover from QC and ~8ul of RNA
  - Made 2 gels, one for the DNA, one for the RNA
  - Ran the gel for 50 minutes at 60 volts, the RNA gel could have used another 10 minutes to get better seperation between the bands
-	DNA
- ![20220104DNA_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/220220104DNA_gel.jpg?raw=true)
+
+ ![20220104DNA_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20220104DNA_gel.jpg?raw=true)
 
  ![20220104RNA_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20220104RNA_gel.jpg?raw=true)
 
