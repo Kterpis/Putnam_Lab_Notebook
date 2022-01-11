@@ -8,7 +8,7 @@ tags: DNA RNA
 
 ## Troubleshooting DNA/RNA extractions from E5 project
 
-Extractions from the three coral species from each of the four timepoints
+Reextractions from the three coral species from each of the four timepoints
 
 ---
 
