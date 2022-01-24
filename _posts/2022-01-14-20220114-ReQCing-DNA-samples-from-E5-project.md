@@ -8,7 +8,7 @@ tags: RNA QC
 
 ## Rechecking the DNA from the E5 project
 
-Troubleshooting the three coral species from each of the four timepoints
+Troubleshooting two coral species from each of the four timepoints
 
 ---
 
