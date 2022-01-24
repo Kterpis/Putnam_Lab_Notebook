@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20211230 Re-QCing samples from the E5 Project
+title: 20211230 Re-QCing RNA samples from the E5 Project
 date: '2021-12-30'
 categories: Processing
 tags: RNA QC
