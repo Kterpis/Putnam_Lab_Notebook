@@ -77,7 +77,7 @@ Troubleshooting two coral species from each of the four timepoints
 | 601		 	| 			   	| 0.312        	| 0.286        	| 0.299        	|
 | 647		  	|		     	| 0.762        	| 0.754        	| 0.758        	|
 | 795		 	| 			   	| 0.304        	| 0.290        	| 0.297        	|
-| 831		  	|		     	| 1.39        	| 1.22        	| 1.305         	|
+| 831		  	|		     	| 1.39        	| 1.22        	| 1.305         |
 
 **Nanodrop**
  - Used ThermoScientific Nanodrop 2000
