@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 20220201 RNA DNA extractions from E5 project
-date: '2022-02-01'
+title: 20220203 RNA DNA extractions from E5 project
+date: '2022-02-03'
 categories: Processing
 tags: DNA RNA
 ---
@@ -12,32 +12,33 @@ Re-Extractions from Porites from each of the four timepoints
 
 ---
 
-#### Extraction Date: February 01, 2022 
+#### Extraction Date: February 03, 2022 
 
 **Samples**
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 1			 	| January	 	| *Porites*		| POC-391      	| 20200106   	| 3				|
-| 25			| January	 	| *Porites*		| POC-386	    | 20200106		| 3				|
-| 111		 	| January	  	| *Porites*		| ACR-379    	| 20200106  	| 3				|
-| 201		 	| March		 	| *Porites*		| POC-55    	| 20200305   	| 1				|
-| 287			| March 		| *Porites*		| POC-53	    | 20200305		| 1				|
-| 415		 	| March	  		| *Porites*		| POR-381    	| 20200304  	| 3				|
-| 497		 	| Sept		 	| *Porites*		| POR-80     	| 20200911   	| 1				|
-| 515			| November	 	| *Porites*		| ACR-187	    | 20201101		| 1				|
-| 633		 	| November		| *Porites*		| POC-45     	| 20201101  	| 1				|
-| 693		 	| November	 	| *Porites*		| POR-349	   	| 20201031   	| 3				|
-| 739			| November	 	| *Porites*		| POC-238	    | 20201030		| 2				|
-| 907		 	| November	  	| *Porites*		| POC-259    	| 20201030  	| 2				|
+| 19		 	| January	 	| *Porites*		| POR-224      	| 20200103   	| 2				|
+| 97			| January	 	| *Porites*		| POR-367	    | 20200106		| 3				|
+| 149		 	| January	  	| *Porites*		| POR-365    	| 20200106  	| 3				|
+| 191		 	| January	 	| *Porites*		| POR-71    	| 20200110   	| 1				|
+| 209			| January 		| *Porites*		| POR-79	    | 20200110		| 1				|
+| 353		 	| March	  		| *Porites*		| POR-353    	| 20200304  	| 3				|
+| 475		 	| March		 	| *Porites*		| POR-78     	| 20200305   	| 1				|
+| 543			| Sept	 		| *Porites*		| POR-224	    | 20200910		| 2				|
+| 591		 	| Sept			| *Porites*		| POR-355	   	| 20200908  	| 3				|
+| 635		 	| Sept	 		| *Porites*		| POR-79	   	| 20200911   	| 1				|
+| 843			| November	 	| *Porites*		| POR-381	    | 20201031		| 3				|
+| 867		 	| November	  	| *Porites*		| POR-209   	| 20201030  	| 2				|
 
 
 ![20220201_samples.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/samples/20220201_samples.jpg?raw=true)
 
 
 **Extraction notes**
- - I looked at each sample, for those samples that were darker (287, 415, 515, 633, and 693) I took 100ul of sample and added it to 200ul of new shield
- - For samples that were lighter in pigment, (1, 25, 111, 201, 497, 739, and 907) I took 200ul of sample and added to 100ul of new shield
+ - I looked at each sample, for those samples that were darker (209, 353, 475, and 843) I took 100ul of sample and added it to 200ul of new shield
+ - For samples that were lighter in pigment, (19, 97, 149, 191, 543, 591, and 867) I took 200ul of sample and added to 100ul of new shield
+ - For samples that were extremely dark (635) I only took 50ul of sample and added it to 150ul of new shield
  - Spun down samples for 3 minutes at 9000 rcf and then transfer the supernatant to new tube without disturbing the pellet
  - 300ul of shield, 15ul of ProK, and 30ul of ProK digestion buffer, let sit for 2 minutes
  - All spins were done for 1 minute or 2.30 minutes
@@ -53,20 +54,20 @@ Re-Extractions from Porites from each of the four timepoints
 
 | Tube number 	| RFU		   	| DNA 1 (ng/uL) | DNA 2 (ng/uL) | Average     	|
 |-------------	|------------	|-------------	|-------------	|-------------	|
-| Standard 1  	| 201.28	 	| 		      	| 		      	|	         	|
-| Standard 2 	| 23737.21	 	| 		    	| 		    	| 	        	|
-| 1			 	|		     	| 4.30	     	| 4.10	     	| 18.0        	|
-| 25		 	| 			   	| 2.60  	    | 28.6        	| 28.8			|
-| 111		  	|		     	| 34.4 	      	| 34.0        	| 34.2       	|
-| 201		 	| 			   	| 41.4      	| 41.0       	| 41.2      	|
-| 287		  	|		     	| 30.8      	| 30.8         	| 30.8        	|
-| 415		 	| 			   	| 4.02      	| 4.04	      	| 4.03       	|
-| 497		  	|		     	| 2.20       	| 2.12        	| 2.16       	|
-| 515		 	| 			   	| 77.4       	| 77.4         	| 77.4      	|
-| 633		  	|		     	| 36.6  	    | 37.0         	| 36.8        	|
-| 693		 	| 			   	| nd        	| nd        	| nd        	|
-| 739		  	|		     	| 2.96      	| 2.88      	| 2.92       	|
-| 907		 	| 			   	| 60.4       	| 59.6         	| 60.0       	|
+| Standard 1  	| 196.20	 	| 		      	| 		      	|	         	|
+| Standard 2 	| 20535.66	 	| 		    	| 		    	| 	        	|
+| 19		 	|		     	| nd	     	| nd	     	| nd        	|
+| 97		 	| 			   	| nd  	 	    | nd        	| nd			|
+| 149		  	|		     	| nd 	      	| nd        	| nd   	    	|
+| 191		 	| 			   	| nd     	 	| nd     	  	| nd	      	|
+| 209		  	|		     	| nd     	 	| nd         	| nd        	|
+| 353		 	| 			   	| nd     	 	| nd	      	| nd	       	|
+| 475		  	|		     	| nd     	  	| nd        	| nd	       	|
+| 543		 	| 			   	| 18.4       	| 18.0         	| 18.2      	|
+| 591		  	|		     	| nd	  	    | nd         	| nd        	|
+| 635		 	| 			   	| nd        	| nd        	| nd        	|
+| 843		  	|		     	| 11.2      	| 10.9      	| 11.05       	|
+| 867		 	| 			   	| 6.26       	| 5.96         	| 6.11       	|
 
 
 **RNA**
@@ -74,20 +75,20 @@ Re-Extractions from Porites from each of the four timepoints
 
 | Tube number 	| RFU		   	| RNA 1 (ng/uL) | RNA 2 (ng/uL) | Average     	|
 |-------------	|------------	|-------------	|-------------	|-------------	|
-| Standard 1  	| 423.11	 	| 		      	| 		      	|	         	|
-| Standard 2 	| 10529.05	 	| 		    	| 		    	| 	        	|
-| 1			 	|		     	| 14.2	     	| 14.2	     	| 14.2        	|
-| 25		 	| 			   	| 22.8  	    | 22.8        	| 22.8			|
-| 111		  	|		     	| nd 	      	| nd        	| nd	       	|
-| 201		 	| 			   	| 29.8        	| 30.0        	| 29.9     		|
-| 287		  	|		     	| nd	      	| nd         	| nd        	|
-| 415		 	| 			   	| nd	      	| nd	      	| nd	       	|
-| 497		  	|		     	| nd	       	| nd        	| nd	       	|
-| 515		 	| 			   	| 11.0       	| 10.8         	| 10.9      	|
-| 633		  	|		     	| 26.2  	    | 26.4         	| 26.3        	|
-| 693		 	| 			   	| 34.8        	| 35.0        	| 34.9        	|
-| 739		  	|		     	| 27.8      	| 27.0      	| 27.4       	|
-| 907		 	| 			   	| 19.8       	| 19.0         	| 19.4       	|
+| Standard 1  	| 423.64	 	| 		      	| 		      	|	         	|
+| Standard 2 	| 10284.26	 	| 		    	| 		    	| 	        	|
+| 19		 	|		     	| nd	     	| nd	     	| nd        	|
+| 97		 	| 			   	| nd	  	    | nd        	| nd			|
+| 149		  	|		     	| 14.4 	      	| 14.4        	| 14.4	       	|
+| 191		 	| 			   	| 11.4        	| 11.4        	| 11.4     		|
+| 209		  	|		     	| 12.4	      	| 12.6         	| 12.5        	|
+| 353		 	| 			   	| nd	      	| nd	      	| nd	       	|
+| 475		  	|		     	| nd	       	| nd        	| nd	       	|
+| 543		 	| 			   	| nd	      	| nd         	| nd	      	|
+| 591		  	|		     	| 11.4  	    | 11.2         	| 11.3        	|
+| 635		 	| 			   	| nd        	| nd        	| nd        	|
+| 843		  	|		     	| nd	      	| nd	      	| nd	       	|
+| 867		 	| 			   	| nd	       	| nd         	| nd	       	|
 
 
 **Tape Station**
@@ -106,5 +107,5 @@ Re-Extractions from Porites from each of the four timepoints
  ![20220201_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20220201_gel.jpg?raw=true)
  
  **Addtional Notes**
-  - 201, 415, 515, 633, 693, and 739 had pigment in the final RNA elution
+  - NA
 
