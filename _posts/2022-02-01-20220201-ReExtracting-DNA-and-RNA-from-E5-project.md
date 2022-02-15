@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 20220203 RNA DNA extractions from E5 project
-date: '2022-02-03'
+title: 20220201 RNA DNA extractions from E5 project
+date: '2022-02-01'
 categories: Processing
 tags: DNA RNA
 ---
@@ -12,7 +12,7 @@ Re-Extractions from Porites from each of the four timepoints
 
 ---
 
-#### Extraction Date: February 03, 2022 
+#### Extraction Date: February 01, 2022 
 
 **Samples**
 
