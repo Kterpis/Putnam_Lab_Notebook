@@ -18,27 +18,26 @@ Re-Extractions from Porites from each of the four timepoints
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 19		 	| January	 	| *Porites*		| POR-224      	| 20200103   	| 2				|
-| 97			| January	 	| *Porites*		| POR-367	    | 20200106		| 3				|
-| 149		 	| January	  	| *Porites*		| POR-365    	| 20200106  	| 3				|
-| 191		 	| January	 	| *Porites*		| POR-71    	| 20200110   	| 1				|
-| 209			| January 		| *Porites*		| POR-79	    | 20200110		| 1				|
-| 353		 	| March	  		| *Porites*		| POR-353    	| 20200304  	| 3				|
-| 475		 	| March		 	| *Porites*		| POR-78     	| 20200305   	| 1				|
-| 543			| Sept	 		| *Porites*		| POR-224	    | 20200910		| 2				|
-| 591		 	| Sept			| *Porites*		| POR-355	   	| 20200908  	| 3				|
-| 635		 	| Sept	 		| *Porites*		| POR-79	   	| 20200911   	| 1				|
-| 843			| November	 	| *Porites*		| POR-381	    | 20201031		| 3				|
-| 867		 	| November	  	| *Porites*		| POR-209   	| 20201030  	| 2				|
+| 1			 	| January	 	| *Porites*		| POR-266      	| 20200103   	| 2				|
+| 25			| January	 	| *Porites*		| POR-209	    | 20200103		| 2				|
+| 111		 	| January	  	| *Porites*		| POR-381    	| 20200106  	| 3				|
+| 201		 	| January	 	| *Porites*		| POR-76    	| 20200110   	| 1				|
+| 287			| March 		| *Porites*		| POR-235	    | 20200303		| 2				|
+| 415		 	| March	  		| *Porites*		| POR-75    	| 20200305  	| 1				|
+| 497		 	| Sept		 	| *Porites*		| POR-253     	| 20200910   	| 2				|
+| 515			| Sept	 		| *Porites*		| POR-216	    | 20200910		| 2				|
+| 633		 	| Sept			| *Porites*		| POR-73	   	| 20200911  	| 1				|
+| 693		 	| Sept	 		| *Porites*		| POR-80	   	| 20200911   	| 1				|
+| 739			| November	 	| *Porites*		| POR-70	    | 20201101		| 1				|
+| 907		 	| November	  	| *Porites*		| POR-221   	| 20201030  	| 2				|
 
 
 ![20220201_samples.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/samples/20220201_samples.jpg?raw=true)
 
 
 **Extraction notes**
- - I looked at each sample, for those samples that were darker (209, 353, 475, and 843) I took 100ul of sample and added it to 200ul of new shield
- - For samples that were lighter in pigment, (19, 97, 149, 191, 543, 591, and 867) I took 200ul of sample and added to 100ul of new shield
- - For samples that were extremely dark (635) I only took 50ul of sample and added it to 150ul of new shield
+ - I looked at each sample, for those samples that were darker (287, 415, 515, 633, 693) I took 100ul of sample and added it to 200ul of new shield
+ - For samples that were lighter in pigment, (1, 25, 111, 201, 739, 907) I took 200ul of sample and added to 100ul of new shield
  - Spun down samples for 3 minutes at 9000 rcf and then transfer the supernatant to new tube without disturbing the pellet
  - 300ul of shield, 15ul of ProK, and 30ul of ProK digestion buffer, let sit for 2 minutes
  - All spins were done for 1 minute or 2.30 minutes
@@ -56,18 +55,18 @@ Re-Extractions from Porites from each of the four timepoints
 |-------------	|------------	|-------------	|-------------	|-------------	|
 | Standard 1  	| 196.20	 	| 		      	| 		      	|	         	|
 | Standard 2 	| 20535.66	 	| 		    	| 		    	| 	        	|
-| 19		 	|		     	| nd	     	| nd	     	| nd        	|
-| 97		 	| 			   	| nd  	 	    | nd        	| nd			|
-| 149		  	|		     	| nd 	      	| nd        	| nd   	    	|
-| 191		 	| 			   	| nd     	 	| nd     	  	| nd	      	|
-| 209		  	|		     	| nd     	 	| nd         	| nd        	|
-| 353		 	| 			   	| nd     	 	| nd	      	| nd	       	|
-| 475		  	|		     	| nd     	  	| nd        	| nd	       	|
-| 543		 	| 			   	| 18.4       	| 18.0         	| 18.2      	|
-| 591		  	|		     	| nd	  	    | nd         	| nd        	|
-| 635		 	| 			   	| nd        	| nd        	| nd        	|
-| 843		  	|		     	| 11.2      	| 10.9      	| 11.05       	|
-| 867		 	| 			   	| 6.26       	| 5.96         	| 6.11       	|
+| 1			 	|		     	| nd	     	| nd	     	| nd        	|
+| 25		 	| 			   	| nd  	 	    | nd        	| nd			|
+| 111		  	|		     	| nd 	      	| nd        	| nd   	    	|
+| 201		 	| 			   	| nd     	 	| nd     	  	| nd	      	|
+| 287		  	|		     	| nd     	 	| nd         	| nd        	|
+| 415		 	| 			   	| nd     	 	| nd	      	| nd	       	|
+| 497		  	|		     	| nd     	  	| nd        	| nd	       	|
+| 515		 	| 			   	| 18.4       	| 18.0         	| 18.2      	|
+| 633		  	|		     	| nd	  	    | nd         	| nd        	|
+| 693		 	| 			   	| nd        	| nd        	| nd        	|
+| 739		  	|		     	| 11.2      	| 10.9      	| 11.05       	|
+| 907		 	| 			   	| 6.26       	| 5.96         	| 6.11       	|
 
 
 **RNA**
@@ -77,18 +76,18 @@ Re-Extractions from Porites from each of the four timepoints
 |-------------	|------------	|-------------	|-------------	|-------------	|
 | Standard 1  	| 423.64	 	| 		      	| 		      	|	         	|
 | Standard 2 	| 10284.26	 	| 		    	| 		    	| 	        	|
-| 19		 	|		     	| nd	     	| nd	     	| nd        	|
-| 97		 	| 			   	| nd	  	    | nd        	| nd			|
-| 149		  	|		     	| 14.4 	      	| 14.4        	| 14.4	       	|
-| 191		 	| 			   	| 11.4        	| 11.4        	| 11.4     		|
-| 209		  	|		     	| 12.4	      	| 12.6         	| 12.5        	|
-| 353		 	| 			   	| nd	      	| nd	      	| nd	       	|
-| 475		  	|		     	| nd	       	| nd        	| nd	       	|
-| 543		 	| 			   	| nd	      	| nd         	| nd	      	|
-| 591		  	|		     	| 11.4  	    | 11.2         	| 11.3        	|
-| 635		 	| 			   	| nd        	| nd        	| nd        	|
-| 843		  	|		     	| nd	      	| nd	      	| nd	       	|
-| 867		 	| 			   	| nd	       	| nd         	| nd	       	|
+| 1			 	|		     	| nd	     	| nd	     	| nd        	|
+| 25		 	| 			   	| nd	  	    | nd        	| nd			|
+| 111		  	|		     	| nd 	      	| nd        	| nd	       	|
+| 201		 	| 			   	| 19.4        	| 19.8        	| 19.6     		|
+| 287		  	|		     	| 13.8	      	| 14.6         	| 14.2        	|
+| 415		 	| 			   	| 13.0	      	| 13.0	      	| 13.0	       	|
+| 497		  	|		     	| nd	       	| nd        	| nd	       	|
+| 515		 	| 			   	| 14.8	      	| 14.6         	| 14.7	      	|
+| 633		  	|		     	| 18.4  	    | 18.2         	| 18.3        	|
+| 693		 	| 			   	| 16.8        	| 16.6        	| 16.7        	|
+| 739		  	|		     	| 22.4	      	| 22.2	      	| 22.3	       	|
+| 907		 	| 			   	| nd	       	| nd         	| nd	       	|
 
 
 **Tape Station**

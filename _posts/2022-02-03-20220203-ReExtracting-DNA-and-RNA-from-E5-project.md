@@ -92,8 +92,8 @@ Re-Extractions from Porites from each of the four timepoints
 
 
 **Tape Station**
- - Tape station broken!
- 
+ - Used to check RNA quality [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
+ - [Results Link](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/538d6f472e1ae4eb408a832f887207e65ab895d5/images/tape_station/2022-02-03%20-%2011.56.30.pdf) 
 
 **Gel**
  - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
