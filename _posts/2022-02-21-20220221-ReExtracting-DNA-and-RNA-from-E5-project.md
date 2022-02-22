@@ -105,5 +105,5 @@ Re-Extractions from Acropora and Pocillopora from three of the timepoints
  ![20220221_gel.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20220221_gel.jpg?raw=true)
  
  **Addtional Notes**
-  - The RNA looks really degraded on the gel. I wouldn't trust the reading of 537. 255 looks the best out of all of them. 
+  - The RNA looks really degraded on the gel. I wouldn't trust the reading of 537. 213 looks the best out of all of them. 
 
