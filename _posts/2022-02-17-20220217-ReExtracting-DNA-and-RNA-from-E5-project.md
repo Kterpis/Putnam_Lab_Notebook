@@ -107,4 +107,5 @@ Re-Extractions from Porites from three of the timepoints
  
  **Addtional Notes**
   - 125, 745, and 795 were pigmented in final RNA elution
+  - I don't trust the qubit readings of 901, 923, and 927. There are no bands in the gel
 
