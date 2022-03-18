@@ -49,7 +49,7 @@ Samples:
 
 ### Ethanol precipitation
 1. Add 3ul of 3M sodium acetate to each PCR reaction (1/10th the total voume)
-2. Add 99ul of ice cold 100% ethanol to each tube (again 1/10th the total volume)
+2. Add 99ul of ice cold 100% ethanol to each tube (3x the total volume)
 3. Transfer entire volume to a new labeled 1.5ml tube
 4. Place tubes in -80 freezer for about 30 minutes
 5. Spin for 30 minutes at 12,000rpm. Make sure all the tubes are facing the same way. The DNA will pellet on the back wall
