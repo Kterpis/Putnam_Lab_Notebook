@@ -78,5 +78,5 @@ Samples:
 |253 | 169.4|
 
 ### Sequencing  
-  - had to dilue the DNA 1:10 so it would be the in correct concentratio to set it the samples up for sequencing. I did not re-nanodrop the samples after diluting
-  - Intially just sequenced in one direction to make sure I was getting the correct target
+  - had to diltue the DNA 1:10 so it would be the in correct concentration to set it the samples up for sequencing. I did not re-nanodrop the samples after diluting
+  - Initially just sequenced in one direction, in this case the forward, to make sure I was getting the correct target
