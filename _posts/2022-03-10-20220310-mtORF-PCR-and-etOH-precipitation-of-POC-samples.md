@@ -16,26 +16,26 @@ First PCR had 18 samples plus a positive and negative control. The Second PCR ha
 **Used tube number 253 as the positive control for both**
 
  - First PCR Samples:
-  * Positive control- 253
-  * Negative control
-  * 69
-  * 71
-  * 73
-  * 75
-  * 79
-  * 81
-  * 83
-  * 87
-  * 89
-  * 95
-  * 99
-  * 101
-  * 103
-  * 117
-  * 133
-  * 137
-  * 155
-  * 159
+    * Positive control- 253
+    * Negative control
+    * 69
+    * 71
+    * 73
+    * 75
+    * 79
+    * 81
+    * 83
+    * 87
+    * 89
+    * 95
+    * 99
+    * 101
+    * 103
+    * 117
+    * 133
+    * 137
+    * 155
+    * 159
 
 ###### Made 21 total PCR reactions
   1. 349.86ul of Phusion High-Fidelity PCR Master Mix
