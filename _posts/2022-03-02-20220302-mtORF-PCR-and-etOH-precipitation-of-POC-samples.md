@@ -29,12 +29,14 @@ Samples:
   * 245
   * 253
 
-###### Made 14 total PCR reactions
+#### Made 14 total PCR reactions
   1. 233.24ul of Phusion High-Fidelity PCR Master Mix
   2. 205.24ul of Ultrapure PCR grade water
   3. 6.02ul of FatP6 primer
   4. 6.02ul of RORF primer
-32ul of MM into each tube and 1ul of the diluted gDNA.
+
+* 32ul of MM into each strip tube and 1ul of the diluted gDNA
+* Spun down tubes briefly
 
 ### Gel
 
@@ -53,7 +55,7 @@ Samples:
 3. Transfer entire volume to a new labeled 1.5ml tube
 4. Place tubes in -80 freezer for about 30 minutes
 5. Spin for 30 minutes at 12,000rpm. Make sure all the tubes are facing the same way. The DNA will pellet on the back wall
-6. Pipette off the liquid without disturbing the pellet. It will most likely be invisable.
+6. Pipette off the liquid without disturbing the pellet. It will most likely be invisible.
 7. Add 200ul of ice cold 70% Ethanol
 8. Spin for 5 minutes at 12,000rmp. This is to wash the pellet. Again make sure each tube is facing the same direction
 9. Pipette off the ethanol without disturbing the pellet
@@ -78,5 +80,5 @@ Samples:
 |253 | 169.4|
 
 ### Sequencing  
-  - had to diltue the DNA 1:10 so it would be the in correct concentration to set it the samples up for sequencing. I did not re-nanodrop the samples after diluting
+  - had to dilute the DNA 1:10 so it would have a low enough concentration to set up the samples up for sequencing. I did not re-nanodrop the samples after diluting
   - Initially just sequenced in one direction, in this case the forward, to make sure I was getting the correct target
