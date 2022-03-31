@@ -16,14 +16,14 @@ Extractions of coral fragments
 
 **Samples**
 
-| Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
-|-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 2A		 	| January	 	| *Porites*		| POR-245      	| 20200103   	| 2				|
-| 5B			| January	 	| *Porites*		| POR-251	    | 20200103		| 2				|
-| 6A		 	| January	  	| *Porites*		| POR-355    	| 20200106  	| 3				|
-| 54-2		 	| January	 	| *Porites*		| POR-83	   	| 20200110   	| 1				|
-| 54-9			| January 		| *Porites*		| POR-81	    | 20200110		| 1				|
-| 69-15		 	| Sept	  		| *Porites*		| POR-362    	| 20200909  	| 3				|
+| Tube number 	| coll date	   	| 
+|-------------	|------------	|
+| 2A		 	| unknown	 	|
+| 5B			| unknown	 	|  
+| 6A		 	| unknown	  	|  
+| 54-2		 	| unknown	 	|
+| 54-9			| unknown 		|
+| 69-15		 	| unknown	  		|
 
 
 
