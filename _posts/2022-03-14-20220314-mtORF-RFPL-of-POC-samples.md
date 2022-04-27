@@ -13,4 +13,4 @@ Restriction Fragment Length Polymorphism (RFLP) is a simple molecular tool that 
 
 
 Start by setting up a mtORF PCR
-  *Loosely based off of this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/mtORF-protocol/).*
+	*Loosely based off of this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/mtORF-protocol/).*
