@@ -40,8 +40,8 @@ First PCR had 18 samples plus a positive and negative control. The Second PCR ha
 ###### Made 21 total PCR reactions
   1. 349.86ul of Phusion High-Fidelity PCR Master Mix
   2. 307.86ul of Ultrapure PCR grade water
-  3. 9.03ul of FatP6 primer
-  4. 9.03ul of RORF primer
+  3. 9.03ul of 10uM FatP6 primer
+  4. 9.03ul of 10uM RORF primer
 
   * 32ul of MM into each strip tube and 1ul of the diluted gDNA
   * Spun down tubes briefly
@@ -68,8 +68,8 @@ First PCR had 18 samples plus a positive and negative control. The Second PCR ha
 ###### Made 16 total PCR reactions
   1. 266.56ul of Phusion High-Fidelity PCR Master Mix
   2. 234.56ul of Ultrapure PCR grade water
-  3. 6.88ul of FatP6 primer
-  4. 6.88ul of RORF primer
+  3. 6.88ul of 10uM FatP6 primer
+  4. 6.88ul of 10uM RORF primer
 
   * 32ul of MM into each strip tube and 1ul of the diluted gDNA
   * Spun down tubes briefly
@@ -87,7 +87,7 @@ First PCR had 18 samples plus a positive and negative control. The Second PCR ha
   ![20220310_gel2.jpg](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/images/gels/20220310_gel2.jpg?raw=true)
 
 ### Ethanol precipitation
-1. Add 3ul of 3M sodium acetate to each PCR reaction (1/10th the total voume)
+1. Add 3ul of 3M sodium acetate to each PCR reaction (1/10th the total volume)
 2. Add 99ul of ice cold 100% ethanol to each tube (3x the total volume)
 3. Transfer entire volume to a new labeled 1.5ml tube
 4. Place tubes in -80 freezer for about 30 minutes
