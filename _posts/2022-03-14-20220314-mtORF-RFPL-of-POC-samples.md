@@ -10,3 +10,7 @@ Pocillopora of Moorea has cryptic diversity, species cannot be discerned by morp
 It's really important to be able to tell these different species apart to make sure enough samples from each species are collected. While generating these sequence barcodes isn't difficult, it can't easily be done in the field, but what if it was?
 
 Restriction Fragment Length Polymorphism (RFLP) is a simple molecular tool that can be used to distinguish these species using restriction enzymes based on known sites.
+
+
+Start by setting up a mtORF PCR
+  *Loosely based off of this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/mtORF-protocol/).*
