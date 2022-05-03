@@ -9,7 +9,9 @@ tags: PCR QC DNA RFPL
 Pocillopora of Moorea has cryptic diversity, species cannot be discerned by morphological characteristics. Even by generating a molecular barcode (ATP synthase 6), there are some species that are identical and a different gene needs to be sequenced to correctly identify these species.
 It's really important to be able to tell these different species apart to make sure enough samples from each species are collected. While generating these sequence barcodes isn't difficult, it can't easily be done in the field, but what if it was?
 
-Restriction Fragment Length Polymorphism (RFLP) is a simple molecular tool that can be used to distinguish these species using restriction enzymes based on known sites.
+Restriction Fragment Length Polymorphism (RFLP) is a simple molecular tool that can be used to distinguish these species using restriction enzymes based on known sites. Johnston et al (2018) used this used this to distinguish POC species in [Hawaii](https://peerj.com/articles/4355/)
+
+#### All PCRs and gels were run on the [Bento lab](https://bento.bio/resources/manual/)
 
 ### mtORF PCR
 
