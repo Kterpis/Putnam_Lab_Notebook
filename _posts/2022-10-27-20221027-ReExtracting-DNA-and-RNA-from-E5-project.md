@@ -18,16 +18,16 @@ Re-Extractions from Acropora from the fourth timepoint plus testing two of Zoe's
 
 | Tube number 	| Timepoint	   	| Species	    | Colony ID 	| Coll date		| Site       	|
 |-------------	|------------	|-------------	|-------------	|-------------	|-------------	|
-| 864		 	| November	 	| *Acropora*	| ACR-267      	| 20200103   	| 2				|
-| 866			| November	 	| *Acropora*	| ACR-265	    | 20200103		| 2				|
-| 872		 	| November	 	| *Acropora*	| ACR-234    	| 20200103  	| 2				|
-| 896		 	| November	 	| *Acropora*	| ACR-244    	| 20200103   	| 2				|
-| 912			| November 		| *Acropora*	| ACR-225	    | 20200103		| 2				|
-| 920		 	| November	  	| *Acropora*	| ACR-256   	| 20200103  	| 2				|
-| 930		 	| November		| *Acropora*	| ACR-228     	| 20200103   	| 2				|
-| 932			| November	 	| *Acropora*	| ACR-237	    | 20200103		| 2				|
-| 936		 	| November		| *Acropora*	| ACR-229	   	| 20200103	 	| 2				|
-| 35		 	| January		| *Acropora*	| ACR-228     	| 20200103   	| 2				|
+| 864		 	| November	 	| *Acropora*	| ACR-267      	| 20201030   	| 2				|
+| 866			| November	 	| *Acropora*	| ACR-244	    | 20201030		| 2				|
+| 872		 	| November	 	| *Acropora*	| ACR-228    	| 20201030  	| 2				|
+| 896		 	| November	 	| *Acropora*	| ACR-234    	| 20201030   	| 2				|
+| 912			| November 		| *Acropora*	| ACR-225	    | 20201030		| 2				|
+| 920		 	| November	  	| *Acropora*	| ACR-265   	| 20201030  	| 2				|
+| 930		 	| November		| *Acropora*	| ACR-237     	| 20201030   	| 2				|
+| 932			| November	 	| *Acropora*	| ACR-229	    | 20201030		| 2				|
+| 936		 	| November		| *Acropora*	| ACR-256	   	| 20201030	 	| 2				|
+| 35		 	| January		| *Acropora*	| ACR-223     	| 20200103   	| 2				|
 | Z1			| NA		 	| *Porites* 	| NA		    | NA			| NA			|
 | Z2		 	| NA			| *Porites*		| NA		   	| NA		 	| NA			|
 
