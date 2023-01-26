@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 20221209 RNA DNA extractions from E5 project
-date: '2022-12-09'
+title: 20221222 RNA DNA extractions from E5 project
+date: '2022-12-22'
 categories: Processing
 tags: DNA RNA QC
 ---
@@ -12,7 +12,7 @@ Re-Extractions from Acropora from the fourth timepoint plus one from TP one
 
 ---
 
-#### Extraction Date: December 09, 2022 
+#### Extraction Date: December 22, 2022 
 
 **Samples**
 
